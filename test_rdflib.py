@@ -7,7 +7,7 @@ import rdflib
 
 filename = 'gares-tgv.csv'
 #filename = 'test.csv'
-df = pd.read_csv(filename, encoding = 'ISO-8859-1')#encoding = "ISO-8859-1") # encoding = "utf-8-sig")
+df = pd.read_csv(filename, encoding = 'UTF-8')#encoding = "ISO-8859-1") # encoding = "utf-8-sig")
 print(df)
 g = rdflib.Graph()
 stations = Namespace('http://example.org/stations/')
@@ -35,5 +35,5 @@ for i, row in df.iterrows():
 	#g.add((URIRef(lati + str(row['Latitude'])), URIRef(schema + 'latitude'), Literal(row['Latitude'], datatype = XSD.float)))
 	#g.add((URIRef(dep + str(row['Longitude'])), URIRef(schema + 'longitude'), Literal(row['Longitude'], datatype = XSD.float)))
 
-#print(g.serialize(format='turtle').decode('UTF-8'))
+print(g.serialize(format='turtle').decode('UTF-8'))
 g.serialize('outgares.ttl', format='turtle')

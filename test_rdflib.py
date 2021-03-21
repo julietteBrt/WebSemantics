@@ -36,4 +36,6 @@ for i, row in df.iterrows():
 	#g.add((URIRef(dep + str(row['Longitude'])), URIRef(schema + 'longitude'), Literal(row['Longitude'], datatype = XSD.float)))
 
 print(g.serialize(format='turtle').decode('UTF-8'))
+
 g.serialize('outgares.ttl', format='turtle')
+g.serialize('outgares1.rdf', format='application/rdf+xml')

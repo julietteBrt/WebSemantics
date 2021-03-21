@@ -1,0 +1,1287 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:ns1="http://schema.org/"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" > 
+  <rdf:Description rdf:about="http://example.org/stations/Amiens">
+    <ns1:station_name>Amiens</ns1:station_name>
+    <ns1:reg_name>Hauts-de-France</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.289</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">49.9</ns1:latitude>
+    <ns1:dep_name>Somme</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Futuroscope">
+    <ns1:station_name>Futuroscope</ns1:station_name>
+    <ns1:reg_name>Nouvelle-Aquitaine</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.362</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">46.659</ns1:latitude>
+    <ns1:dep_name>Vienne</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Reims">
+    <ns1:station_name>Reims</ns1:station_name>
+    <ns1:reg_name>Grand-Est</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.041</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">49.245</ns1:latitude>
+    <ns1:dep_name>Marne</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Chambï¿½ry---Challes-les-Eaux">
+    <ns1:station_name>Chambï¿½ry---Challes-les-Eaux</ns1:station_name>
+    <ns1:reg_name>Auvergne-Rhï¿½ne-Alpes</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">5.975</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">45.559</ns1:latitude>
+    <ns1:dep_name>Savoie</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Dol-de-Bretagne">
+    <ns1:station_name>Dol-de-Bretagne</ns1:station_name>
+    <ns1:reg_name>Bretagne</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.738</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">48.551</ns1:latitude>
+    <ns1:dep_name>Ille-et-Vilaine</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Avignon-Centre">
+    <ns1:station_name>Avignon-Centre</ns1:station_name>
+    <ns1:reg_name>Provence-Alpes-Cï¿½te-d'Azur</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">5.031</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">44.046</ns1:latitude>
+    <ns1:dep_name>Vaucluse</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Montpellier-Sud-de-France">
+    <ns1:station_name>Montpellier-Sud-de-France</ns1:station_name>
+    <ns1:reg_name>Occitanie</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">3.924</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">43.595</ns1:latitude>
+    <ns1:dep_name>Hï¿½rault</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Antibes">
+    <ns1:station_name>Antibes</ns1:station_name>
+    <ns1:reg_name>Provence-Alpes-Cï¿½te-d'Azur</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">7.108</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">43.584</ns1:latitude>
+    <ns1:dep_name>Alpes-Maritimes</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Redon">
+    <ns1:station_name>Redon</ns1:station_name>
+    <ns1:reg_name>Bretagne</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-2.083</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">47.652</ns1:latitude>
+    <ns1:dep_name>Ille-et-Vilaine</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Mouchard">
+    <ns1:station_name>Mouchard</ns1:station_name>
+    <ns1:reg_name>Bourgogne-Franche-Comtï¿½</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">5.792</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">46.978</ns1:latitude>
+    <ns1:dep_name>Jura</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Nï¿½mes">
+    <ns1:station_name>Nï¿½mes</ns1:station_name>
+    <ns1:reg_name>Occitanie</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.386</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">43.832</ns1:latitude>
+    <ns1:dep_name>Gard</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Hendaye">
+    <ns1:station_name>Hendaye</ns1:station_name>
+    <ns1:reg_name>Nouvelle-Aquitaine</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.774</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">43.355</ns1:latitude>
+    <ns1:dep_name>Pyrï¿½nï¿½es-Atlantiques</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Sarrebourg">
+    <ns1:station_name>Sarrebourg</ns1:station_name>
+    <ns1:reg_name>Grand-Est</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">7.052</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">48.735</ns1:latitude>
+    <ns1:dep_name>Moselle</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Bourg-en-Bresse">
+    <ns1:station_name>Bourg-en-Bresse</ns1:station_name>
+    <ns1:reg_name>Auvergne-Rhï¿½ne-Alpes</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">5.275</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">46.196</ns1:latitude>
+    <ns1:dep_name>Ain</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Tarbes">
+    <ns1:station_name>Tarbes</ns1:station_name>
+    <ns1:reg_name>Occitanie</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.071</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">43.232</ns1:latitude>
+    <ns1:dep_name>Hautes-Pyrï¿½nï¿½es</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Quimper">
+    <ns1:station_name>Quimper</ns1:station_name>
+    <ns1:reg_name>Bretagne</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-4.094</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">48.014</ns1:latitude>
+    <ns1:dep_name>Finistï¿½re</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/La-Teste">
+    <ns1:station_name>La-Teste</ns1:station_name>
+    <ns1:reg_name>Nouvelle-Aquitaine</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.133</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">44.633</ns1:latitude>
+    <ns1:dep_name>Gironde</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Grenoble">
+    <ns1:station_name>Grenoble</ns1:station_name>
+    <ns1:reg_name>Auvergne-Rhï¿½ne-Alpes</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">5.741</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">45.177</ns1:latitude>
+    <ns1:dep_name>Isï¿½re</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Sï¿½lestat">
+    <ns1:station_name>Sï¿½lestat</ns1:station_name>
+    <ns1:reg_name>Grand-Est</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">7.441</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">48.265</ns1:latitude>
+    <ns1:dep_name>Bas-Rhin</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Pau">
+    <ns1:station_name>Pau</ns1:station_name>
+    <ns1:reg_name>Nouvelle-Aquitaine</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-0.35</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">43.295</ns1:latitude>
+    <ns1:dep_name>Pyrï¿½nï¿½es-Atlantiques</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Besanï¿½on-Franche-Comtï¿½-TGV">
+    <ns1:station_name>Besanï¿½on-Franche-Comtï¿½-TGV</ns1:station_name>
+    <ns1:reg_name>Auvergne-Rhï¿½ne-Alpes</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.706</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">45.985</ns1:latitude>
+    <ns1:dep_name>Rhï¿½ne</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Thonon-les-Bains">
+    <ns1:station_name>Thonon-les-Bains</ns1:station_name>
+    <ns1:reg_name>Auvergne-Rhï¿½ne-Alpes</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">6.485</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">46.374</ns1:latitude>
+    <ns1:dep_name>Haute-Savoie</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/ï¿½taples---Le-Touquet">
+    <ns1:station_name>ï¿½taples---Le-Touquet</ns1:station_name>
+    <ns1:reg_name>Hauts-de-France</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.589</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">50.525</ns1:latitude>
+    <ns1:dep_name>Pas-de-Calais</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Metz-Ville">
+    <ns1:station_name>Metz-Ville</ns1:station_name>
+    <ns1:reg_name>Grand-Est</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">6.155</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">49.101</ns1:latitude>
+    <ns1:dep_name>Moselle</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Lorraine-TGV">
+    <ns1:station_name>Lorraine-TGV</ns1:station_name>
+    <ns1:reg_name>Centre-Val-de-Loire</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.71</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">47.381</ns1:latitude>
+    <ns1:dep_name>Indre-et-Loire</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Aix-les-Bains-Le-Revard">
+    <ns1:station_name>Aix-les-Bains-Le-Revard</ns1:station_name>
+    <ns1:reg_name>Auvergne-Rhï¿½ne-Alpes</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">5.919</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">45.69</ns1:latitude>
+    <ns1:dep_name>Savoie</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Bayonne">
+    <ns1:station_name>Bayonne</ns1:station_name>
+    <ns1:reg_name>Nouvelle-Aquitaine</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.443</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">43.503</ns1:latitude>
+    <ns1:dep_name>Pyrï¿½nï¿½es-Atlantiques</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Rouen-Rive-Droite">
+    <ns1:station_name>Rouen-Rive-Droite</ns1:station_name>
+    <ns1:reg_name>Nouvelle-Aquitaine</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-0.973</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">46.318</ns1:latitude>
+    <ns1:dep_name>Charente-Maritime</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Menton">
+    <ns1:station_name>Menton</ns1:station_name>
+    <ns1:reg_name>Provence-Alpes-Cï¿½te-d'Azur</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">7.489</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">43.774</ns1:latitude>
+    <ns1:dep_name>Alpes-Maritimes</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Boulogne-Ville">
+    <ns1:station_name>Boulogne-Ville</ns1:station_name>
+    <ns1:reg_name>Hauts-de-France</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.707</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">49.607</ns1:latitude>
+    <ns1:dep_name>Oise</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/ï¿½vian-les-Bains">
+    <ns1:station_name>ï¿½vian-les-Bains</ns1:station_name>
+    <ns1:reg_name>Auvergne-Rhï¿½ne-Alpes</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">6.602</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">46.398</ns1:latitude>
+    <ns1:dep_name>Haute-Savoie</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Nï¿½mes-Pont-du-Gard">
+    <ns1:station_name>Nï¿½mes-Pont-du-Gard</ns1:station_name>
+    <ns1:reg_name>Occitanie</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.37</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">43.851</ns1:latitude>
+    <ns1:dep_name>Gard</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Saint-Jean-de-Luz---Ciboure">
+    <ns1:station_name>Saint-Jean-de-Luz---Ciboure</ns1:station_name>
+    <ns1:reg_name>Nouvelle-Aquitaine</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.676</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">43.381</ns1:latitude>
+    <ns1:dep_name>Pyrï¿½nï¿½es-Atlantiques</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Saumur">
+    <ns1:station_name>Saumur</ns1:station_name>
+    <ns1:reg_name>Pays-de-la-Loire</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-0.073</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">47.263</ns1:latitude>
+    <ns1:dep_name>Maine-et-Loire</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Carcassonne">
+    <ns1:station_name>Carcassonne</ns1:station_name>
+    <ns1:reg_name>Occitanie</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.405</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">43.179</ns1:latitude>
+    <ns1:dep_name>Aude</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Rethel">
+    <ns1:station_name>Rethel</ns1:station_name>
+    <ns1:reg_name>Grand-Est</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.402</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">49.5</ns1:latitude>
+    <ns1:dep_name>Ardennes</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Forbach">
+    <ns1:station_name>Forbach</ns1:station_name>
+    <ns1:reg_name>Grand-Est</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">6.895</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">49.18</ns1:latitude>
+    <ns1:dep_name>Moselle</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Vendï¿½me---Villiers-sur-Loir">
+    <ns1:station_name>Vendï¿½me---Villiers-sur-Loir</ns1:station_name>
+    <ns1:reg_name>Centre-Val-de-Loire</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.036</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">47.799</ns1:latitude>
+    <ns1:dep_name>Loir-et-Cher</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Narbonne">
+    <ns1:station_name>Narbonne</ns1:station_name>
+    <ns1:reg_name>Occitanie</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">3.026</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">43.182</ns1:latitude>
+    <ns1:dep_name>Aude</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Paris-Est">
+    <ns1:station_name>Paris-Est</ns1:station_name>
+    <ns1:reg_name>ï¿½le-de-France</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.395</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">48.871</ns1:latitude>
+    <ns1:dep_name>Paris</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Ancenis">
+    <ns1:station_name>Ancenis</ns1:station_name>
+    <ns1:reg_name>Pays-de-la-Loire</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.184</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">47.366</ns1:latitude>
+    <ns1:dep_name>Loire-Atlantique</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Arcachon">
+    <ns1:station_name>Arcachon</ns1:station_name>
+    <ns1:reg_name>Nouvelle-Aquitaine</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.17</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">44.662</ns1:latitude>
+    <ns1:dep_name>Gironde</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Angers-Saint-Laud">
+    <ns1:station_name>Angers-Saint-Laud</ns1:station_name>
+    <ns1:reg_name>Pays-de-la-Loire</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-0.552</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">47.473</ns1:latitude>
+    <ns1:dep_name>Maine-et-Loire</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Saint-Malo">
+    <ns1:station_name>Saint-Malo</ns1:station_name>
+    <ns1:reg_name>Bretagne</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.974</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">48.657</ns1:latitude>
+    <ns1:dep_name>Ille-et-Vilaine</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Valenciennes">
+    <ns1:station_name>Valenciennes</ns1:station_name>
+    <ns1:reg_name>Hauts-de-France</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">3.517</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">50.342</ns1:latitude>
+    <ns1:dep_name>Nord</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Hyï¿½res">
+    <ns1:station_name>Hyï¿½res</ns1:station_name>
+    <ns1:reg_name>Provence-Alpes-Cï¿½te-d'Azur</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">6.123</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">43.09</ns1:latitude>
+    <ns1:dep_name>Var</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Aix-en-Provence-TGV">
+    <ns1:station_name>Aix-en-Provence-TGV</ns1:station_name>
+    <ns1:reg_name>Auvergne-Rhï¿½ne-Alpes</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.847</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">46.097</ns1:latitude>
+    <ns1:dep_name>Ain</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Charleville-Mï¿½ziï¿½res">
+    <ns1:station_name>Charleville-Mï¿½ziï¿½res</ns1:station_name>
+    <ns1:reg_name>Grand-Est</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.72</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">49.771</ns1:latitude>
+    <ns1:dep_name>Ardennes</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Besanï¿½on-Viotte">
+    <ns1:station_name>Besanï¿½on-Viotte</ns1:station_name>
+    <ns1:reg_name>Bourgogne-Franche-Comtï¿½</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">6.026</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">47.248</ns1:latitude>
+    <ns1:dep_name>Doubs</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Colmar">
+    <ns1:station_name>Colmar</ns1:station_name>
+    <ns1:reg_name>Grand-Est</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">7.361</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">48.077</ns1:latitude>
+    <ns1:dep_name>Haut-Rhin</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Mantes-la-Jolie">
+    <ns1:station_name>Mantes-la-Jolie</ns1:station_name>
+    <ns1:reg_name>ï¿½le-de-France</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.721</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">48.994</ns1:latitude>
+    <ns1:dep_name>Yvelines</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Vannes">
+    <ns1:station_name>Vannes</ns1:station_name>
+    <ns1:reg_name>Bretagne</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-2.773</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">47.636</ns1:latitude>
+    <ns1:dep_name>Morbihan</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Calais---Frï¿½thun">
+    <ns1:station_name>Calais---Frï¿½thun</ns1:station_name>
+    <ns1:reg_name>Hauts-de-France</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.85</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">50.935</ns1:latitude>
+    <ns1:dep_name>Pas-de-Calais</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Sablï¿½-sur-Sarthe">
+    <ns1:station_name>Sablï¿½-sur-Sarthe</ns1:station_name>
+    <ns1:reg_name>Pays-de-la-Loire</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-0.329</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">47.837</ns1:latitude>
+    <ns1:dep_name>Sarthe</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Lyon-Part-Dieu">
+    <ns1:station_name>Lyon-Part-Dieu</ns1:station_name>
+    <ns1:reg_name>Auvergne-Rhï¿½ne-Alpes</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.841</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">45.759</ns1:latitude>
+    <ns1:dep_name>Rhï¿½ne</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Niort">
+    <ns1:station_name>Niort</ns1:station_name>
+    <ns1:reg_name>Nouvelle-Aquitaine</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-0.458</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">46.319</ns1:latitude>
+    <ns1:dep_name>Deux-Sï¿½vres</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Vitry-le-Franï¿½ois">
+    <ns1:station_name>Vitry-le-Franï¿½ois</ns1:station_name>
+    <ns1:reg_name>Grand-Est</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.597</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">48.73</ns1:latitude>
+    <ns1:dep_name>Marne</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Lyon-Saint-Exupï¿½ry-TGV">
+    <ns1:station_name>Lyon-Saint-Exupï¿½ry-TGV</ns1:station_name>
+    <ns1:reg_name>Auvergne-Rhï¿½ne-Alpes</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.828</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">45.758</ns1:latitude>
+    <ns1:dep_name>Rhï¿½ne</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Le-Pouliguen">
+    <ns1:station_name>Le-Pouliguen</ns1:station_name>
+    <ns1:reg_name>Pays-de-la-Loire</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-2.439</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">47.277</ns1:latitude>
+    <ns1:dep_name>Loire-Atlantique</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Bar-le-Duc">
+    <ns1:station_name>Bar-le-Duc</ns1:station_name>
+    <ns1:reg_name>Grand-Est</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">5.194</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">48.756</ns1:latitude>
+    <ns1:dep_name>Meuse</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Saint-Gervais-les-Bains-Le-Fayet">
+    <ns1:station_name>Saint-Gervais-les-Bains-Le-Fayet</ns1:station_name>
+    <ns1:reg_name>Auvergne-Rhï¿½ne-Alpes</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">6.682</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">45.868</ns1:latitude>
+    <ns1:dep_name>Haute-Savoie</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Le-Havre">
+    <ns1:station_name>Le-Havre</ns1:station_name>
+    <ns1:reg_name>Normandie</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.174</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">49.505</ns1:latitude>
+    <ns1:dep_name>Seine-Maritime</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Agde">
+    <ns1:station_name>Agde</ns1:station_name>
+    <ns1:reg_name>Occitanie</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">3.483</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">43.318</ns1:latitude>
+    <ns1:dep_name>Hï¿½rault</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Poitiers">
+    <ns1:station_name>Poitiers</ns1:station_name>
+    <ns1:reg_name>Nouvelle-Aquitaine</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.335</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">46.579</ns1:latitude>
+    <ns1:dep_name>Vienne</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Beaune">
+    <ns1:station_name>Beaune</ns1:station_name>
+    <ns1:reg_name>Bourgogne-Franche-Comtï¿½</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.67</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">47.104</ns1:latitude>
+    <ns1:dep_name>Cï¿½te-d'Or</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Douai">
+    <ns1:station_name>Douai</ns1:station_name>
+    <ns1:reg_name>Hauts-de-France</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">3.09</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">50.39</ns1:latitude>
+    <ns1:dep_name>Nord</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Bordeaux-Saint-Jean">
+    <ns1:station_name>Bordeaux-Saint-Jean</ns1:station_name>
+    <ns1:reg_name>Nouvelle-Aquitaine</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-0.57</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">44.838</ns1:latitude>
+    <ns1:dep_name>Gironde</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Rosporden">
+    <ns1:station_name>Rosporden</ns1:station_name>
+    <ns1:reg_name>Bretagne</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.791</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">47.989</ns1:latitude>
+    <ns1:dep_name>Finistï¿½re</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Massy---Palaiseau">
+    <ns1:station_name>Massy---Palaiseau</ns1:station_name>
+    <ns1:reg_name>ï¿½le-de-France</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.243</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">48.731</ns1:latitude>
+    <ns1:dep_name>Essonne</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Roubaix">
+    <ns1:station_name>Roubaix</ns1:station_name>
+    <ns1:reg_name>Hauts-de-France</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">3.17</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">50.701</ns1:latitude>
+    <ns1:dep_name>Nord</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Lamballe">
+    <ns1:station_name>Lamballe</ns1:station_name>
+    <ns1:reg_name>Bretagne</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-2.538</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">48.439</ns1:latitude>
+    <ns1:dep_name>Cï¿½tes-d'Armor</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Dole-Ville">
+    <ns1:station_name>Dole-Ville</ns1:station_name>
+    <ns1:reg_name>Bourgogne-Franche-Comtï¿½</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">5.589</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">47.439</ns1:latitude>
+    <ns1:dep_name>Haute-Saï¿½ne</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Brest">
+    <ns1:station_name>Brest</ns1:station_name>
+    <ns1:reg_name>Bretagne</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-4.502</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">48.391</ns1:latitude>
+    <ns1:dep_name>Finistï¿½re</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Lille-Europe">
+    <ns1:station_name>Lille-Europe</ns1:station_name>
+    <ns1:reg_name>Hauts-de-France</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">3.074</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">50.641</ns1:latitude>
+    <ns1:dep_name>Nord</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Saint-Diï¿½-des-Vosges">
+    <ns1:station_name>Saint-Diï¿½-des-Vosges</ns1:station_name>
+    <ns1:reg_name>Grand-Est</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">6.962</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">48.293</ns1:latitude>
+    <ns1:dep_name>Vosges</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Modane">
+    <ns1:station_name>Modane</ns1:station_name>
+    <ns1:reg_name>Auvergne-Rhï¿½ne-Alpes</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">6.671</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">45.201</ns1:latitude>
+    <ns1:dep_name>Savoie</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Surgï¿½res">
+    <ns1:station_name>Surgï¿½res</ns1:station_name>
+    <ns1:reg_name>Nouvelle-Aquitaine</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-0.741</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">46.114</ns1:latitude>
+    <ns1:dep_name>Charente-Maritime</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Saint-Jean-de-Maurienne---Vallï¿½e-de-l&apos;Arvan">
+    <ns1:station_name>Saint-Jean-de-Maurienne---Vallï¿½e-de-l'Arvan</ns1:station_name>
+    <ns1:reg_name>Auvergne-Rhï¿½ne-Alpes</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">6.352</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">45.272</ns1:latitude>
+    <ns1:dep_name>Savoie</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Chï¿½lons-en-Champagne">
+    <ns1:station_name>Chï¿½lons-en-Champagne</ns1:station_name>
+    <ns1:reg_name>Grand-Est</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.362</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">48.956</ns1:latitude>
+    <ns1:dep_name>Marne</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Lourdes">
+    <ns1:station_name>Lourdes</ns1:station_name>
+    <ns1:reg_name>Occitanie</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-0.049</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">43.095</ns1:latitude>
+    <ns1:dep_name>Hautes-Pyrï¿½nï¿½es</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Le-Mans">
+    <ns1:station_name>Le-Mans</ns1:station_name>
+    <ns1:reg_name>Pays-de-la-Loire</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.192</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">47.999</ns1:latitude>
+    <ns1:dep_name>Sarthe</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/La-Rochelle-Ville">
+    <ns1:station_name>La-Rochelle-Ville</ns1:station_name>
+    <ns1:reg_name>Nouvelle-Aquitaine</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.154</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">46.158</ns1:latitude>
+    <ns1:dep_name>Charente-Maritime</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Massy-TGV">
+    <ns1:station_name>Massy-TGV</ns1:station_name>
+    <ns1:reg_name>ï¿½le-de-France</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.291</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">48.736</ns1:latitude>
+    <ns1:dep_name>Essonne</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Meuse-TGV">
+    <ns1:station_name>Meuse-TGV</ns1:station_name>
+    <ns1:reg_name>Occitanie</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.484</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">43.583</ns1:latitude>
+    <ns1:dep_name>Haute-Garonne</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Rang-du-Fliers---Verton">
+    <ns1:station_name>Rang-du-Fliers---Verton</ns1:station_name>
+    <ns1:reg_name>Hauts-de-France</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.619</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">50.414</ns1:latitude>
+    <ns1:dep_name>Pas-de-Calais</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Tourcoing">
+    <ns1:station_name>Tourcoing</ns1:station_name>
+    <ns1:reg_name>Hauts-de-France</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">3.141</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">50.718</ns1:latitude>
+    <ns1:dep_name>Nord</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Moï¿½tiers---Salins---Brides-les-Bains">
+    <ns1:station_name>Moï¿½tiers---Salins---Brides-les-Bains</ns1:station_name>
+    <ns1:reg_name>Auvergne-Rhï¿½ne-Alpes</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">6.567</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">45.452</ns1:latitude>
+    <ns1:dep_name>Savoie</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Vitrï¿½">
+    <ns1:station_name>Vitrï¿½</ns1:station_name>
+    <ns1:reg_name>Bretagne</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.218</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">48.131</ns1:latitude>
+    <ns1:dep_name>Ille-et-Vilaine</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Versailles-Chantiers">
+    <ns1:station_name>Versailles-Chantiers</ns1:station_name>
+    <ns1:reg_name>ï¿½le-de-France</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.136</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">48.797</ns1:latitude>
+    <ns1:dep_name>Yvelines</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Morlaix">
+    <ns1:station_name>Morlaix</ns1:station_name>
+    <ns1:reg_name>Bretagne</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.833</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">48.579</ns1:latitude>
+    <ns1:dep_name>Finistï¿½re</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Montpellier-Saint-Roch">
+    <ns1:station_name>Montpellier-Saint-Roch</ns1:station_name>
+    <ns1:reg_name>Occitanie</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">3.89</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">43.603</ns1:latitude>
+    <ns1:dep_name>Hï¿½rault</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Quimperlï¿½">
+    <ns1:station_name>Quimperlï¿½</ns1:station_name>
+    <ns1:reg_name>Bretagne</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.548</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">47.884</ns1:latitude>
+    <ns1:dep_name>Finistï¿½re</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Agen">
+    <ns1:station_name>Agen</ns1:station_name>
+    <ns1:reg_name>Nouvelle-Aquitaine</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.618</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">44.206</ns1:latitude>
+    <ns1:dep_name>Lot-et-Garonne</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Frasne">
+    <ns1:station_name>Frasne</ns1:station_name>
+    <ns1:reg_name>Bourgogne-Franche-Comtï¿½</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">6.149</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">46.856</ns1:latitude>
+    <ns1:dep_name>Doubs</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Avignon-TGV">
+    <ns1:station_name>Avignon-TGV</ns1:station_name>
+    <ns1:reg_name>Provence-Alpes-Cï¿½te-d'Azur</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">5.095</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">43.657</ns1:latitude>
+    <ns1:dep_name>Bouches-du-Rhï¿½ne</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Dunkerque">
+    <ns1:station_name>Dunkerque</ns1:station_name>
+    <ns1:reg_name>Hauts-de-France</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.389</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">51.046</ns1:latitude>
+    <ns1:dep_name>Nord</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Bï¿½thune">
+    <ns1:station_name>Bï¿½thune</ns1:station_name>
+    <ns1:reg_name>Hauts-de-France</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.636</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">50.517</ns1:latitude>
+    <ns1:dep_name>Pas-de-Calais</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Rennes">
+    <ns1:station_name>Rennes</ns1:station_name>
+    <ns1:reg_name>Bretagne</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.684</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">48.11</ns1:latitude>
+    <ns1:dep_name>Ille-et-Vilaine</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Mulhouse-Ville">
+    <ns1:station_name>Mulhouse-Ville</ns1:station_name>
+    <ns1:reg_name>Grand-Est</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">7.34</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">47.746</ns1:latitude>
+    <ns1:dep_name>Haut-Rhin</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Tours">
+    <ns1:station_name>Tours</ns1:station_name>
+    <ns1:reg_name>Centre-Val-de-Loire</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.696</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">47.402</ns1:latitude>
+    <ns1:dep_name>Indre-et-Loire</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Cannes">
+    <ns1:station_name>Cannes</ns1:station_name>
+    <ns1:reg_name>Provence-Alpes-Cï¿½te-d'Azur</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">7.146</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">43.653</ns1:latitude>
+    <ns1:dep_name>Alpes-Maritimes</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Lannion">
+    <ns1:station_name>Lannion</ns1:station_name>
+    <ns1:reg_name>Bretagne</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.472</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">48.744</ns1:latitude>
+    <ns1:dep_name>Cï¿½tes-d'Armor</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Landry">
+    <ns1:station_name>Landry</ns1:station_name>
+    <ns1:reg_name>Auvergne-Rhï¿½ne-Alpes</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">6.736</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">45.576</ns1:latitude>
+    <ns1:dep_name>Savoie</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Saint-Brieuc">
+    <ns1:station_name>Saint-Brieuc</ns1:station_name>
+    <ns1:reg_name>Bretagne</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-2.763</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">48.503</ns1:latitude>
+    <ns1:dep_name>Cï¿½tes-d'Armor</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Nancy-Ville">
+    <ns1:station_name>Nancy-Ville</ns1:station_name>
+    <ns1:reg_name>Grand-Est</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">6.224</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">48.703</ns1:latitude>
+    <ns1:dep_name>Meurthe-et-Moselle</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Angoulï¿½me">
+    <ns1:station_name>Angoulï¿½me</ns1:station_name>
+    <ns1:reg_name>Nouvelle-Aquitaine</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.151</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">45.655</ns1:latitude>
+    <ns1:dep_name>Charente</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Belfort---Montbï¿½liard-TGV">
+    <ns1:station_name>Belfort---Montbï¿½liard-TGV</ns1:station_name>
+    <ns1:reg_name>Bourgogne-Franche-Comtï¿½</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">6.858</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">47.637</ns1:latitude>
+    <ns1:dep_name>Territoire-de-Belfort</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Cluses">
+    <ns1:station_name>Cluses</ns1:station_name>
+    <ns1:reg_name>Auvergne-Rhï¿½ne-Alpes</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">5.577</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">46.171</ns1:latitude>
+    <ns1:dep_name>Ain</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Arras">
+    <ns1:station_name>Arras</ns1:station_name>
+    <ns1:reg_name>Hauts-de-France</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.778</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">50.29</ns1:latitude>
+    <ns1:dep_name>Pas-de-Calais</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Lyon-Perrache">
+    <ns1:station_name>Lyon-Perrache</ns1:station_name>
+    <ns1:reg_name>Auvergne-Rhï¿½ne-Alpes</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.828</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">45.749</ns1:latitude>
+    <ns1:dep_name>Rhï¿½ne</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Mï¿½con-Lochï¿½-TGV">
+    <ns1:station_name>Mï¿½con-Lochï¿½-TGV</ns1:station_name>
+    <ns1:reg_name>Bourgogne-Franche-Comtï¿½</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.784</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">46.277</ns1:latitude>
+    <ns1:dep_name>Saï¿½ne-et-Loire</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Marne-la-Vallï¿½e---Chessy">
+    <ns1:station_name>Marne-la-Vallï¿½e---Chessy</ns1:station_name>
+    <ns1:reg_name>Auvergne-Rhï¿½ne-Alpes</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.621</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">45.888</ns1:latitude>
+    <ns1:dep_name>Rhï¿½ne</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Aime-La-Plagne">
+    <ns1:station_name>Aime-La-Plagne</ns1:station_name>
+    <ns1:reg_name>Auvergne-Rhï¿½ne-Alpes</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">6.606</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">45.573</ns1:latitude>
+    <ns1:dep_name>Savoie</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Valence-Ville">
+    <ns1:station_name>Valence-Ville</ns1:station_name>
+    <ns1:reg_name>Auvergne-Rhï¿½ne-Alpes</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.891</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">44.933</ns1:latitude>
+    <ns1:dep_name>Drï¿½me</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Annecy">
+    <ns1:station_name>Annecy</ns1:station_name>
+    <ns1:reg_name>Auvergne-Rhï¿½ne-Alpes</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">6.119</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">45.898</ns1:latitude>
+    <ns1:dep_name>Haute-Savoie</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Pornichet">
+    <ns1:station_name>Pornichet</ns1:station_name>
+    <ns1:reg_name>Pays-de-la-Loire</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-2.314</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">47.252</ns1:latitude>
+    <ns1:dep_name>Loire-Atlantique</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Montï¿½limar">
+    <ns1:station_name>Montï¿½limar</ns1:station_name>
+    <ns1:reg_name>Auvergne-Rhï¿½ne-Alpes</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.744</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">44.546</ns1:latitude>
+    <ns1:dep_name>Drï¿½me</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/La-Baule-Escoublac">
+    <ns1:station_name>La-Baule-Escoublac</ns1:station_name>
+    <ns1:reg_name>Pays-de-la-Loire</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-2.371</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">47.285</ns1:latitude>
+    <ns1:dep_name>Loire-Atlantique</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Saint-Raphaï¿½l-Valescure">
+    <ns1:station_name>Saint-Raphaï¿½l-Valescure</ns1:station_name>
+    <ns1:reg_name>Provence-Alpes-Cï¿½te-d'Azur</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">6.776</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">43.441</ns1:latitude>
+    <ns1:dep_name>Var</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Paris-Nord">
+    <ns1:station_name>Paris-Nord</ns1:station_name>
+    <ns1:reg_name>ï¿½le-de-France</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.356</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">48.881</ns1:latitude>
+    <ns1:dep_name>Paris</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Sallanches---Combloux---Megï¿½ve">
+    <ns1:station_name>Sallanches---Combloux---Megï¿½ve</ns1:station_name>
+    <ns1:reg_name>Auvergne-Rhï¿½ne-Alpes</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">6.643</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">45.901</ns1:latitude>
+    <ns1:dep_name>Haute-Savoie</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Auray">
+    <ns1:station_name>Auray</ns1:station_name>
+    <ns1:reg_name>Bretagne</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-2.988</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">47.663</ns1:latitude>
+    <ns1:dep_name>Morbihan</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Nantes">
+    <ns1:station_name>Nantes</ns1:station_name>
+    <ns1:reg_name>Pays-de-la-Loire</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.529</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">47.259</ns1:latitude>
+    <ns1:dep_name>Loire-Atlantique</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Laval">
+    <ns1:station_name>Laval</ns1:station_name>
+    <ns1:reg_name>Pays-de-la-Loire</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-0.76</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">48.077</ns1:latitude>
+    <ns1:dep_name>Mayenne</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Orthez">
+    <ns1:station_name>Orthez</ns1:station_name>
+    <ns1:reg_name>Nouvelle-Aquitaine</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-0.768</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">43.491</ns1:latitude>
+    <ns1:dep_name>Pyrï¿½nï¿½es-Atlantiques</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Lille-Flandres">
+    <ns1:station_name>Lille-Flandres</ns1:station_name>
+    <ns1:reg_name>Hauts-de-France</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">3.056</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">50.628</ns1:latitude>
+    <ns1:dep_name>Nord</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Lens">
+    <ns1:station_name>Lens</ns1:station_name>
+    <ns1:reg_name>Hauts-de-France</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">3.027</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">50.419</ns1:latitude>
+    <ns1:dep_name>Pas-de-Calais</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Plouaret-Trï¿½gor">
+    <ns1:station_name>Plouaret-Trï¿½gor</ns1:station_name>
+    <ns1:reg_name>Bretagne</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.704</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">48.035</ns1:latitude>
+    <ns1:dep_name>Ille-et-Vilaine</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Lorient">
+    <ns1:station_name>Lorient</ns1:station_name>
+    <ns1:reg_name>Bretagne</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.384</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">47.759</ns1:latitude>
+    <ns1:dep_name>Morbihan</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Arles">
+    <ns1:station_name>Arles</ns1:station_name>
+    <ns1:reg_name>Provence-Alpes-Cï¿½te-d'Azur</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">5.071</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">43.641</ns1:latitude>
+    <ns1:dep_name>Bouches-du-Rhï¿½ne</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Paris-Montparnasse">
+    <ns1:station_name>Paris-Montparnasse</ns1:station_name>
+    <ns1:reg_name>ï¿½le-de-France</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.317</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">48.838</ns1:latitude>
+    <ns1:dep_name>Paris</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Saint-Nazaire">
+    <ns1:station_name>Saint-Nazaire</ns1:station_name>
+    <ns1:reg_name>Pays-de-la-Loire</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-2.184</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">47.299</ns1:latitude>
+    <ns1:dep_name>Loire-Atlantique</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Chalon-sur-Saï¿½ne">
+    <ns1:station_name>Chalon-sur-Saï¿½ne</ns1:station_name>
+    <ns1:reg_name>Bourgogne-Franche-Comtï¿½</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.841</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">46.789</ns1:latitude>
+    <ns1:dep_name>Saï¿½ne-et-Loire</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/ï¿½pinal">
+    <ns1:station_name>ï¿½pinal</ns1:station_name>
+    <ns1:reg_name>Grand-Est</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">6.45</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">48.175</ns1:latitude>
+    <ns1:dep_name>Vosges</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/La-Roche-sur-Yon">
+    <ns1:station_name>La-Roche-sur-Yon</ns1:station_name>
+    <ns1:reg_name>Pays-de-la-Loire</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.432</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">46.67</ns1:latitude>
+    <ns1:dep_name>Vendï¿½e</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Landerneau">
+    <ns1:station_name>Landerneau</ns1:station_name>
+    <ns1:reg_name>Bretagne</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-4.253</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">48.45</ns1:latitude>
+    <ns1:dep_name>Finistï¿½re</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Guingamp">
+    <ns1:station_name>Guingamp</ns1:station_name>
+    <ns1:reg_name>Bretagne</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.155</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">48.563</ns1:latitude>
+    <ns1:dep_name>Cï¿½tes-d'Armor</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Sedan">
+    <ns1:station_name>Sedan</ns1:station_name>
+    <ns1:reg_name>Grand-Est</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.943</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">49.705</ns1:latitude>
+    <ns1:dep_name>Ardennes</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Orange">
+    <ns1:station_name>Orange</ns1:station_name>
+    <ns1:reg_name>Provence-Alpes-Cï¿½te-d'Azur</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.812</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">44.14</ns1:latitude>
+    <ns1:dep_name>Vaucluse</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Saint-Pierre-des-Corps">
+    <ns1:station_name>Saint-Pierre-des-Corps</ns1:station_name>
+    <ns1:reg_name>Centre-Val-de-Loire</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.761</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">47.386</ns1:latitude>
+    <ns1:dep_name>Indre-et-Loire</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Miramas">
+    <ns1:station_name>Miramas</ns1:station_name>
+    <ns1:reg_name>Provence-Alpes-Cï¿½te-d'Azur</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">5.021</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">43.643</ns1:latitude>
+    <ns1:dep_name>Bouches-du-Rhï¿½ne</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Bellegarde">
+    <ns1:station_name>Bellegarde</ns1:station_name>
+    <ns1:reg_name>Auvergne-Rhï¿½ne-Alpes</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">5.824</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">46.114</ns1:latitude>
+    <ns1:dep_name>Ain</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Paris-Gare-de-Lyon">
+    <ns1:station_name>Paris-Gare-de-Lyon</ns1:station_name>
+    <ns1:reg_name>Auvergne-Rhï¿½ne-Alpes</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.804</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">45.78</ns1:latitude>
+    <ns1:dep_name>Rhï¿½ne</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/TGV-Haute-Picardie">
+    <ns1:station_name>TGV-Haute-Picardie</ns1:station_name>
+    <ns1:reg_name>Occitanie</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">3.68</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">43.394</ns1:latitude>
+    <ns1:dep_name>Hï¿½rault</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Bï¿½ziers">
+    <ns1:station_name>Bï¿½ziers</ns1:station_name>
+    <ns1:reg_name>Occitanie</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">3.236</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">43.42</ns1:latitude>
+    <ns1:dep_name>Hï¿½rault</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Saint-Maixent-(Deux-Sï¿½vres)">
+    <ns1:station_name>Saint-Maixent-(Deux-Sï¿½vres)</ns1:station_name>
+    <ns1:reg_name>Nouvelle-Aquitaine</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-0.205</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">46.409</ns1:latitude>
+    <ns1:dep_name>Deux-Sï¿½vres</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Croix---Wasquehal">
+    <ns1:station_name>Croix---Wasquehal</ns1:station_name>
+    <ns1:reg_name>Hauts-de-France</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">3.135</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">50.678</ns1:latitude>
+    <ns1:dep_name>Nord</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Montauban-Ville-Bourbon">
+    <ns1:station_name>Montauban-Ville-Bourbon</ns1:station_name>
+    <ns1:reg_name>Auvergne-Rhï¿½ne-Alpes</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.36</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">45.429</ns1:latitude>
+    <ns1:dep_name>Loire</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Libourne">
+    <ns1:station_name>Libourne</ns1:station_name>
+    <ns1:reg_name>Nouvelle-Aquitaine</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-0.24</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">44.896</ns1:latitude>
+    <ns1:dep_name>Gironde</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Sï¿½te">
+    <ns1:station_name>Sï¿½te</ns1:station_name>
+    <ns1:reg_name>Occitanie</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">3.698</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">43.409</ns1:latitude>
+    <ns1:dep_name>Hï¿½rault</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Le-Croisic">
+    <ns1:station_name>Le-Croisic</ns1:station_name>
+    <ns1:reg_name>Pays-de-la-Loire</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-2.51</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">47.287</ns1:latitude>
+    <ns1:dep_name>Loire-Atlantique</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Saverne">
+    <ns1:station_name>Saverne</ns1:station_name>
+    <ns1:reg_name>Grand-Est</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">7.359</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">48.744</ns1:latitude>
+    <ns1:dep_name>Bas-Rhin</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Dijon-Ville">
+    <ns1:station_name>Dijon-Ville</ns1:station_name>
+    <ns1:reg_name>Grand-Est</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.789</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">48.119</ns1:latitude>
+    <ns1:dep_name>Aube</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Hazebrouck">
+    <ns1:station_name>Hazebrouck</ns1:station_name>
+    <ns1:reg_name>Hauts-de-France</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.726</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">50.738</ns1:latitude>
+    <ns1:dep_name>Nord</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Lunï¿½ville">
+    <ns1:station_name>Lunï¿½ville</ns1:station_name>
+    <ns1:reg_name>Grand-Est</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">6.483</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">48.585</ns1:latitude>
+    <ns1:dep_name>Meurthe-et-Moselle</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Mï¿½con-Ville">
+    <ns1:station_name>Mï¿½con-Ville</ns1:station_name>
+    <ns1:reg_name>Bretagne</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-2.197</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">48.581</ns1:latitude>
+    <ns1:dep_name>Cï¿½tes-d'Armor</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Toulon">
+    <ns1:station_name>Toulon</ns1:station_name>
+    <ns1:reg_name>Provence-Alpes-Cï¿½te-d'Azur</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">5.964</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">43.133</ns1:latitude>
+    <ns1:dep_name>Var</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Remiremont">
+    <ns1:station_name>Remiremont</ns1:station_name>
+    <ns1:reg_name>Grand-Est</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">6.604</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">48.006</ns1:latitude>
+    <ns1:dep_name>Vosges</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Thionville">
+    <ns1:station_name>Thionville</ns1:station_name>
+    <ns1:reg_name>Grand-Est</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">6.144</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">49.362</ns1:latitude>
+    <ns1:dep_name>Moselle</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Aeroport-Charles-de-Gaulle-TGV">
+    <ns1:station_name>Aeroport-Charles-de-Gaulle-TGV&#xD;
+</ns1:station_name>
+    <ns1:reg_name>ï¿½le-de-France</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.571</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">49.006</ns1:latitude>
+    <ns1:dep_name>Seine-et-Marne</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Les-Arcs---Draguignan">
+    <ns1:station_name>Les-Arcs---Draguignan</ns1:station_name>
+    <ns1:reg_name>Provence-Alpes-Cï¿½te-d'Azur</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">6.483</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">43.504</ns1:latitude>
+    <ns1:dep_name>Var</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Valence-TGV">
+    <ns1:station_name>Valence-TGV</ns1:station_name>
+    <ns1:reg_name>Auvergne-Rhï¿½ne-Alpes</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.891</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">45.065</ns1:latitude>
+    <ns1:dep_name>Drï¿½me</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Saint-Michel---Valloire">
+    <ns1:station_name>Saint-Michel---Valloire</ns1:station_name>
+    <ns1:reg_name>Grand-Est</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">6.134</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">48.157</ns1:latitude>
+    <ns1:dep_name>Vosges</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Marseille-Saint-Charles">
+    <ns1:station_name>Marseille-Saint-Charles</ns1:station_name>
+    <ns1:reg_name>Provence-Alpes-Cï¿½te-d'Azur</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">5.432</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">43.255</ns1:latitude>
+    <ns1:dep_name>Bouches-du-Rhï¿½ne</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Strasbourg-Ville">
+    <ns1:station_name>Strasbourg-Ville</ns1:station_name>
+    <ns1:reg_name>Grand-Est</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">7.76</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">48.561</ns1:latitude>
+    <ns1:dep_name>Bas-Rhin</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Annemasse">
+    <ns1:station_name>Annemasse</ns1:station_name>
+    <ns1:reg_name>Auvergne-Rhï¿½ne-Alpes</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">6.242</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">46.185</ns1:latitude>
+    <ns1:dep_name>Haute-Savoie</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Saint-Avre---La-Chambre">
+    <ns1:station_name>Saint-Avre---La-Chambre</ns1:station_name>
+    <ns1:reg_name>Auvergne-Rhï¿½ne-Alpes</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">6.304</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">45.356</ns1:latitude>
+    <ns1:dep_name>Savoie</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Saint-ï¿½tienne-Chï¿½teaucreux">
+    <ns1:station_name>Saint-ï¿½tienne-Chï¿½teaucreux</ns1:station_name>
+    <ns1:reg_name>Auvergne-Rhï¿½ne-Alpes</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.4</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">45.443</ns1:latitude>
+    <ns1:dep_name>Loire</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Champagne-Ardenne-TGV">
+    <ns1:station_name>Champagne-Ardenne-TGV</ns1:station_name>
+    <ns1:reg_name>Nouvelle-Aquitaine</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-0.222</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">45.62</ns1:latitude>
+    <ns1:dep_name>Charente</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Montbard">
+    <ns1:station_name>Montbard</ns1:station_name>
+    <ns1:reg_name>Bourgogne-Franche-Comtï¿½</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.364</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">47.837</ns1:latitude>
+    <ns1:dep_name>Cï¿½te-d'Or</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Le-Creusot---Montceau---Montchanin">
+    <ns1:station_name>Le-Creusot---Montceau---Montchanin</ns1:station_name>
+    <ns1:reg_name>Bourgogne-Franche-Comtï¿½</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.377</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">46.669</ns1:latitude>
+    <ns1:dep_name>Saï¿½ne-et-Loire</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Toulouse-Matabiau">
+    <ns1:station_name>Toulouse-Matabiau</ns1:station_name>
+    <ns1:reg_name>Occitanie</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.447</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">43.61</ns1:latitude>
+    <ns1:dep_name>Haute-Garonne</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Chï¿½tellerault">
+    <ns1:station_name>Chï¿½tellerault</ns1:station_name>
+    <ns1:reg_name>Nouvelle-Aquitaine</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.525</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">46.796</ns1:latitude>
+    <ns1:dep_name>Vienne</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Albertville">
+    <ns1:station_name>Albertville</ns1:station_name>
+    <ns1:reg_name>Auvergne-Rhï¿½ne-Alpes</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">6.384</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">45.659</ns1:latitude>
+    <ns1:dep_name>Savoie</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Calais-Ville">
+    <ns1:station_name>Calais-Ville</ns1:station_name>
+    <ns1:reg_name>Hauts-de-France</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">3.063</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">50.43</ns1:latitude>
+    <ns1:dep_name>Pas-de-Calais</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Biarritz">
+    <ns1:station_name>Biarritz</ns1:station_name>
+    <ns1:reg_name>Nouvelle-Aquitaine</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.555</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">43.472</ns1:latitude>
+    <ns1:dep_name>Pyrï¿½nï¿½es-Atlantiques</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Perpignan">
+    <ns1:station_name>Perpignan</ns1:station_name>
+    <ns1:reg_name>Occitanie</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.888</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">42.697</ns1:latitude>
+    <ns1:dep_name>Pyrï¿½nï¿½es-Orientales</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Facture-Biganos">
+    <ns1:station_name>Facture-Biganos</ns1:station_name>
+    <ns1:reg_name>Nouvelle-Aquitaine</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-0.956</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">44.65</ns1:latitude>
+    <ns1:dep_name>Gironde</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Nice-Ville">
+    <ns1:station_name>Nice-Ville</ns1:station_name>
+    <ns1:reg_name>Provence-Alpes-Cï¿½te-d'Azur</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">7.272</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">43.697</ns1:latitude>
+    <ns1:dep_name>Alpes-Maritimes</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Nurieux">
+    <ns1:station_name>Nurieux</ns1:station_name>
+    <ns1:reg_name>Auvergne-Rhï¿½ne-Alpes</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">5.521</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">46.181</ns1:latitude>
+    <ns1:dep_name>Ain</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Les-Sables-d&apos;Olonne">
+    <ns1:station_name>Les-Sables-d'Olonne</ns1:station_name>
+    <ns1:reg_name>Pays-de-la-Loire</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.758</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">46.479</ns1:latitude>
+    <ns1:dep_name>Vendï¿½e</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Bourg-Saint-Maurice">
+    <ns1:station_name>Bourg-Saint-Maurice</ns1:station_name>
+    <ns1:reg_name>Auvergne-Rhï¿½ne-Alpes</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">6.828</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">45.573</ns1:latitude>
+    <ns1:dep_name>Savoie</ns1:dep_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/stations/Dax">
+    <ns1:station_name>Dax</ns1:station_name>
+    <ns1:reg_name>Nouvelle-Aquitaine</ns1:reg_name>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.068</ns1:longitude>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">43.709</ns1:latitude>
+    <ns1:dep_name>Landes</ns1:dep_name>
+  </rdf:Description>
+</rdf:RDF>

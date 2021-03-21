@@ -1,0 +1,1103 @@
+@prefix ns1: <http://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://example.org/stations/Aeroport-Charles-de-Gaulle-TGV
+> ns1:dep_name "Seine-et-Marne"^^xsd:string ;
+    ns1:latitude "49.006"^^xsd:float ;
+    ns1:longitude "2.571"^^xsd:float ;
+    ns1:reg_name "ï¿½le-de-France"^^xsd:string ;
+    ns1:station_name """Aeroport-Charles-de-Gaulle-TGV\r
+"""^^xsd:string .
+
+<http://example.org/stations/Agde> ns1:dep_name "Hï¿½rault"^^xsd:string ;
+    ns1:latitude "43.318"^^xsd:float ;
+    ns1:longitude "3.483"^^xsd:float ;
+    ns1:reg_name "Occitanie"^^xsd:string ;
+    ns1:station_name "Agde"^^xsd:string .
+
+<http://example.org/stations/Agen> ns1:dep_name "Lot-et-Garonne"^^xsd:string ;
+    ns1:latitude "44.206"^^xsd:float ;
+    ns1:longitude "0.618"^^xsd:float ;
+    ns1:reg_name "Nouvelle-Aquitaine"^^xsd:string ;
+    ns1:station_name "Agen"^^xsd:string .
+
+<http://example.org/stations/Aime-La-Plagne> ns1:dep_name "Savoie"^^xsd:string ;
+    ns1:latitude "45.573"^^xsd:float ;
+    ns1:longitude "6.606"^^xsd:float ;
+    ns1:reg_name "Auvergne-Rhï¿½ne-Alpes"^^xsd:string ;
+    ns1:station_name "Aime-La-Plagne"^^xsd:string .
+
+<http://example.org/stations/Aix-en-Provence-TGV> ns1:dep_name "Ain"^^xsd:string ;
+    ns1:latitude "46.097"^^xsd:float ;
+    ns1:longitude "4.847"^^xsd:float ;
+    ns1:reg_name "Auvergne-Rhï¿½ne-Alpes"^^xsd:string ;
+    ns1:station_name "Aix-en-Provence-TGV"^^xsd:string .
+
+<http://example.org/stations/Aix-les-Bains-Le-Revard> ns1:dep_name "Savoie"^^xsd:string ;
+    ns1:latitude "45.69"^^xsd:float ;
+    ns1:longitude "5.919"^^xsd:float ;
+    ns1:reg_name "Auvergne-Rhï¿½ne-Alpes"^^xsd:string ;
+    ns1:station_name "Aix-les-Bains-Le-Revard"^^xsd:string .
+
+<http://example.org/stations/Albertville> ns1:dep_name "Savoie"^^xsd:string ;
+    ns1:latitude "45.659"^^xsd:float ;
+    ns1:longitude "6.384"^^xsd:float ;
+    ns1:reg_name "Auvergne-Rhï¿½ne-Alpes"^^xsd:string ;
+    ns1:station_name "Albertville"^^xsd:string .
+
+<http://example.org/stations/Amiens> ns1:dep_name "Somme"^^xsd:string ;
+    ns1:latitude "49.9"^^xsd:float ;
+    ns1:longitude "2.289"^^xsd:float ;
+    ns1:reg_name "Hauts-de-France"^^xsd:string ;
+    ns1:station_name "Amiens"^^xsd:string .
+
+<http://example.org/stations/Ancenis> ns1:dep_name "Loire-Atlantique"^^xsd:string ;
+    ns1:latitude "47.366"^^xsd:float ;
+    ns1:longitude "-1.184"^^xsd:float ;
+    ns1:reg_name "Pays-de-la-Loire"^^xsd:string ;
+    ns1:station_name "Ancenis"^^xsd:string .
+
+<http://example.org/stations/Angers-Saint-Laud> ns1:dep_name "Maine-et-Loire"^^xsd:string ;
+    ns1:latitude "47.473"^^xsd:float ;
+    ns1:longitude "-0.552"^^xsd:float ;
+    ns1:reg_name "Pays-de-la-Loire"^^xsd:string ;
+    ns1:station_name "Angers-Saint-Laud"^^xsd:string .
+
+<http://example.org/stations/Angoulï¿½me> ns1:dep_name "Charente"^^xsd:string ;
+    ns1:latitude "45.655"^^xsd:float ;
+    ns1:longitude "0.151"^^xsd:float ;
+    ns1:reg_name "Nouvelle-Aquitaine"^^xsd:string ;
+    ns1:station_name "Angoulï¿½me"^^xsd:string .
+
+<http://example.org/stations/Annecy> ns1:dep_name "Haute-Savoie"^^xsd:string ;
+    ns1:latitude "45.898"^^xsd:float ;
+    ns1:longitude "6.119"^^xsd:float ;
+    ns1:reg_name "Auvergne-Rhï¿½ne-Alpes"^^xsd:string ;
+    ns1:station_name "Annecy"^^xsd:string .
+
+<http://example.org/stations/Annemasse> ns1:dep_name "Haute-Savoie"^^xsd:string ;
+    ns1:latitude "46.185"^^xsd:float ;
+    ns1:longitude "6.242"^^xsd:float ;
+    ns1:reg_name "Auvergne-Rhï¿½ne-Alpes"^^xsd:string ;
+    ns1:station_name "Annemasse"^^xsd:string .
+
+<http://example.org/stations/Antibes> ns1:dep_name "Alpes-Maritimes"^^xsd:string ;
+    ns1:latitude "43.584"^^xsd:float ;
+    ns1:longitude "7.108"^^xsd:float ;
+    ns1:reg_name "Provence-Alpes-Cï¿½te-d'Azur"^^xsd:string ;
+    ns1:station_name "Antibes"^^xsd:string .
+
+<http://example.org/stations/Arcachon> ns1:dep_name "Gironde"^^xsd:string ;
+    ns1:latitude "44.662"^^xsd:float ;
+    ns1:longitude "-1.17"^^xsd:float ;
+    ns1:reg_name "Nouvelle-Aquitaine"^^xsd:string ;
+    ns1:station_name "Arcachon"^^xsd:string .
+
+<http://example.org/stations/Arles> ns1:dep_name "Bouches-du-Rhï¿½ne"^^xsd:string ;
+    ns1:latitude "43.641"^^xsd:float ;
+    ns1:longitude "5.071"^^xsd:float ;
+    ns1:reg_name "Provence-Alpes-Cï¿½te-d'Azur"^^xsd:string ;
+    ns1:station_name "Arles"^^xsd:string .
+
+<http://example.org/stations/Arras> ns1:dep_name "Pas-de-Calais"^^xsd:string ;
+    ns1:latitude "50.29"^^xsd:float ;
+    ns1:longitude "2.778"^^xsd:float ;
+    ns1:reg_name "Hauts-de-France"^^xsd:string ;
+    ns1:station_name "Arras"^^xsd:string .
+
+<http://example.org/stations/Auray> ns1:dep_name "Morbihan"^^xsd:string ;
+    ns1:latitude "47.663"^^xsd:float ;
+    ns1:longitude "-2.988"^^xsd:float ;
+    ns1:reg_name "Bretagne"^^xsd:string ;
+    ns1:station_name "Auray"^^xsd:string .
+
+<http://example.org/stations/Avignon-Centre> ns1:dep_name "Vaucluse"^^xsd:string ;
+    ns1:latitude "44.046"^^xsd:float ;
+    ns1:longitude "5.031"^^xsd:float ;
+    ns1:reg_name "Provence-Alpes-Cï¿½te-d'Azur"^^xsd:string ;
+    ns1:station_name "Avignon-Centre"^^xsd:string .
+
+<http://example.org/stations/Avignon-TGV> ns1:dep_name "Bouches-du-Rhï¿½ne"^^xsd:string ;
+    ns1:latitude "43.657"^^xsd:float ;
+    ns1:longitude "5.095"^^xsd:float ;
+    ns1:reg_name "Provence-Alpes-Cï¿½te-d'Azur"^^xsd:string ;
+    ns1:station_name "Avignon-TGV"^^xsd:string .
+
+<http://example.org/stations/Bar-le-Duc> ns1:dep_name "Meuse"^^xsd:string ;
+    ns1:latitude "48.756"^^xsd:float ;
+    ns1:longitude "5.194"^^xsd:float ;
+    ns1:reg_name "Grand-Est"^^xsd:string ;
+    ns1:station_name "Bar-le-Duc"^^xsd:string .
+
+<http://example.org/stations/Bayonne> ns1:dep_name "Pyrï¿½nï¿½es-Atlantiques"^^xsd:string ;
+    ns1:latitude "43.503"^^xsd:float ;
+    ns1:longitude "-1.443"^^xsd:float ;
+    ns1:reg_name "Nouvelle-Aquitaine"^^xsd:string ;
+    ns1:station_name "Bayonne"^^xsd:string .
+
+<http://example.org/stations/Beaune> ns1:dep_name "Cï¿½te-d'Or"^^xsd:string ;
+    ns1:latitude "47.104"^^xsd:float ;
+    ns1:longitude "4.67"^^xsd:float ;
+    ns1:reg_name "Bourgogne-Franche-Comtï¿½"^^xsd:string ;
+    ns1:station_name "Beaune"^^xsd:string .
+
+<http://example.org/stations/Belfort---Montbï¿½liard-TGV> ns1:dep_name "Territoire-de-Belfort"^^xsd:string ;
+    ns1:latitude "47.637"^^xsd:float ;
+    ns1:longitude "6.858"^^xsd:float ;
+    ns1:reg_name "Bourgogne-Franche-Comtï¿½"^^xsd:string ;
+    ns1:station_name "Belfort---Montbï¿½liard-TGV"^^xsd:string .
+
+<http://example.org/stations/Bellegarde> ns1:dep_name "Ain"^^xsd:string ;
+    ns1:latitude "46.114"^^xsd:float ;
+    ns1:longitude "5.824"^^xsd:float ;
+    ns1:reg_name "Auvergne-Rhï¿½ne-Alpes"^^xsd:string ;
+    ns1:station_name "Bellegarde"^^xsd:string .
+
+<http://example.org/stations/Besanï¿½on-Franche-Comtï¿½-TGV> ns1:dep_name "Rhï¿½ne"^^xsd:string ;
+    ns1:latitude "45.985"^^xsd:float ;
+    ns1:longitude "4.706"^^xsd:float ;
+    ns1:reg_name "Auvergne-Rhï¿½ne-Alpes"^^xsd:string ;
+    ns1:station_name "Besanï¿½on-Franche-Comtï¿½-TGV"^^xsd:string .
+
+<http://example.org/stations/Besanï¿½on-Viotte> ns1:dep_name "Doubs"^^xsd:string ;
+    ns1:latitude "47.248"^^xsd:float ;
+    ns1:longitude "6.026"^^xsd:float ;
+    ns1:reg_name "Bourgogne-Franche-Comtï¿½"^^xsd:string ;
+    ns1:station_name "Besanï¿½on-Viotte"^^xsd:string .
+
+<http://example.org/stations/Biarritz> ns1:dep_name "Pyrï¿½nï¿½es-Atlantiques"^^xsd:string ;
+    ns1:latitude "43.472"^^xsd:float ;
+    ns1:longitude "-1.555"^^xsd:float ;
+    ns1:reg_name "Nouvelle-Aquitaine"^^xsd:string ;
+    ns1:station_name "Biarritz"^^xsd:string .
+
+<http://example.org/stations/Bordeaux-Saint-Jean> ns1:dep_name "Gironde"^^xsd:string ;
+    ns1:latitude "44.838"^^xsd:float ;
+    ns1:longitude "-0.57"^^xsd:float ;
+    ns1:reg_name "Nouvelle-Aquitaine"^^xsd:string ;
+    ns1:station_name "Bordeaux-Saint-Jean"^^xsd:string .
+
+<http://example.org/stations/Boulogne-Ville> ns1:dep_name "Oise"^^xsd:string ;
+    ns1:latitude "49.607"^^xsd:float ;
+    ns1:longitude "2.707"^^xsd:float ;
+    ns1:reg_name "Hauts-de-France"^^xsd:string ;
+    ns1:station_name "Boulogne-Ville"^^xsd:string .
+
+<http://example.org/stations/Bourg-Saint-Maurice> ns1:dep_name "Savoie"^^xsd:string ;
+    ns1:latitude "45.573"^^xsd:float ;
+    ns1:longitude "6.828"^^xsd:float ;
+    ns1:reg_name "Auvergne-Rhï¿½ne-Alpes"^^xsd:string ;
+    ns1:station_name "Bourg-Saint-Maurice"^^xsd:string .
+
+<http://example.org/stations/Bourg-en-Bresse> ns1:dep_name "Ain"^^xsd:string ;
+    ns1:latitude "46.196"^^xsd:float ;
+    ns1:longitude "5.275"^^xsd:float ;
+    ns1:reg_name "Auvergne-Rhï¿½ne-Alpes"^^xsd:string ;
+    ns1:station_name "Bourg-en-Bresse"^^xsd:string .
+
+<http://example.org/stations/Brest> ns1:dep_name "Finistï¿½re"^^xsd:string ;
+    ns1:latitude "48.391"^^xsd:float ;
+    ns1:longitude "-4.502"^^xsd:float ;
+    ns1:reg_name "Bretagne"^^xsd:string ;
+    ns1:station_name "Brest"^^xsd:string .
+
+<http://example.org/stations/Bï¿½thune> ns1:dep_name "Pas-de-Calais"^^xsd:string ;
+    ns1:latitude "50.517"^^xsd:float ;
+    ns1:longitude "2.636"^^xsd:float ;
+    ns1:reg_name "Hauts-de-France"^^xsd:string ;
+    ns1:station_name "Bï¿½thune"^^xsd:string .
+
+<http://example.org/stations/Bï¿½ziers> ns1:dep_name "Hï¿½rault"^^xsd:string ;
+    ns1:latitude "43.42"^^xsd:float ;
+    ns1:longitude "3.236"^^xsd:float ;
+    ns1:reg_name "Occitanie"^^xsd:string ;
+    ns1:station_name "Bï¿½ziers"^^xsd:string .
+
+<http://example.org/stations/Calais---Frï¿½thun> ns1:dep_name "Pas-de-Calais"^^xsd:string ;
+    ns1:latitude "50.935"^^xsd:float ;
+    ns1:longitude "1.85"^^xsd:float ;
+    ns1:reg_name "Hauts-de-France"^^xsd:string ;
+    ns1:station_name "Calais---Frï¿½thun"^^xsd:string .
+
+<http://example.org/stations/Calais-Ville> ns1:dep_name "Pas-de-Calais"^^xsd:string ;
+    ns1:latitude "50.43"^^xsd:float ;
+    ns1:longitude "3.063"^^xsd:float ;
+    ns1:reg_name "Hauts-de-France"^^xsd:string ;
+    ns1:station_name "Calais-Ville"^^xsd:string .
+
+<http://example.org/stations/Cannes> ns1:dep_name "Alpes-Maritimes"^^xsd:string ;
+    ns1:latitude "43.653"^^xsd:float ;
+    ns1:longitude "7.146"^^xsd:float ;
+    ns1:reg_name "Provence-Alpes-Cï¿½te-d'Azur"^^xsd:string ;
+    ns1:station_name "Cannes"^^xsd:string .
+
+<http://example.org/stations/Carcassonne> ns1:dep_name "Aude"^^xsd:string ;
+    ns1:latitude "43.179"^^xsd:float ;
+    ns1:longitude "2.405"^^xsd:float ;
+    ns1:reg_name "Occitanie"^^xsd:string ;
+    ns1:station_name "Carcassonne"^^xsd:string .
+
+<http://example.org/stations/Chalon-sur-Saï¿½ne> ns1:dep_name "Saï¿½ne-et-Loire"^^xsd:string ;
+    ns1:latitude "46.789"^^xsd:float ;
+    ns1:longitude "4.841"^^xsd:float ;
+    ns1:reg_name "Bourgogne-Franche-Comtï¿½"^^xsd:string ;
+    ns1:station_name "Chalon-sur-Saï¿½ne"^^xsd:string .
+
+<http://example.org/stations/Chambï¿½ry---Challes-les-Eaux> ns1:dep_name "Savoie"^^xsd:string ;
+    ns1:latitude "45.559"^^xsd:float ;
+    ns1:longitude "5.975"^^xsd:float ;
+    ns1:reg_name "Auvergne-Rhï¿½ne-Alpes"^^xsd:string ;
+    ns1:station_name "Chambï¿½ry---Challes-les-Eaux"^^xsd:string .
+
+<http://example.org/stations/Champagne-Ardenne-TGV> ns1:dep_name "Charente"^^xsd:string ;
+    ns1:latitude "45.62"^^xsd:float ;
+    ns1:longitude "-0.222"^^xsd:float ;
+    ns1:reg_name "Nouvelle-Aquitaine"^^xsd:string ;
+    ns1:station_name "Champagne-Ardenne-TGV"^^xsd:string .
+
+<http://example.org/stations/Charleville-Mï¿½ziï¿½res> ns1:dep_name "Ardennes"^^xsd:string ;
+    ns1:latitude "49.771"^^xsd:float ;
+    ns1:longitude "4.72"^^xsd:float ;
+    ns1:reg_name "Grand-Est"^^xsd:string ;
+    ns1:station_name "Charleville-Mï¿½ziï¿½res"^^xsd:string .
+
+<http://example.org/stations/Chï¿½lons-en-Champagne> ns1:dep_name "Marne"^^xsd:string ;
+    ns1:latitude "48.956"^^xsd:float ;
+    ns1:longitude "4.362"^^xsd:float ;
+    ns1:reg_name "Grand-Est"^^xsd:string ;
+    ns1:station_name "Chï¿½lons-en-Champagne"^^xsd:string .
+
+<http://example.org/stations/Chï¿½tellerault> ns1:dep_name "Vienne"^^xsd:string ;
+    ns1:latitude "46.796"^^xsd:float ;
+    ns1:longitude "0.525"^^xsd:float ;
+    ns1:reg_name "Nouvelle-Aquitaine"^^xsd:string ;
+    ns1:station_name "Chï¿½tellerault"^^xsd:string .
+
+<http://example.org/stations/Cluses> ns1:dep_name "Ain"^^xsd:string ;
+    ns1:latitude "46.171"^^xsd:float ;
+    ns1:longitude "5.577"^^xsd:float ;
+    ns1:reg_name "Auvergne-Rhï¿½ne-Alpes"^^xsd:string ;
+    ns1:station_name "Cluses"^^xsd:string .
+
+<http://example.org/stations/Colmar> ns1:dep_name "Haut-Rhin"^^xsd:string ;
+    ns1:latitude "48.077"^^xsd:float ;
+    ns1:longitude "7.361"^^xsd:float ;
+    ns1:reg_name "Grand-Est"^^xsd:string ;
+    ns1:station_name "Colmar"^^xsd:string .
+
+<http://example.org/stations/Croix---Wasquehal> ns1:dep_name "Nord"^^xsd:string ;
+    ns1:latitude "50.678"^^xsd:float ;
+    ns1:longitude "3.135"^^xsd:float ;
+    ns1:reg_name "Hauts-de-France"^^xsd:string ;
+    ns1:station_name "Croix---Wasquehal"^^xsd:string .
+
+<http://example.org/stations/Dax> ns1:dep_name "Landes"^^xsd:string ;
+    ns1:latitude "43.709"^^xsd:float ;
+    ns1:longitude "-1.068"^^xsd:float ;
+    ns1:reg_name "Nouvelle-Aquitaine"^^xsd:string ;
+    ns1:station_name "Dax"^^xsd:string .
+
+<http://example.org/stations/Dijon-Ville> ns1:dep_name "Aube"^^xsd:string ;
+    ns1:latitude "48.119"^^xsd:float ;
+    ns1:longitude "4.789"^^xsd:float ;
+    ns1:reg_name "Grand-Est"^^xsd:string ;
+    ns1:station_name "Dijon-Ville"^^xsd:string .
+
+<http://example.org/stations/Dol-de-Bretagne> ns1:dep_name "Ille-et-Vilaine"^^xsd:string ;
+    ns1:latitude "48.551"^^xsd:float ;
+    ns1:longitude "-1.738"^^xsd:float ;
+    ns1:reg_name "Bretagne"^^xsd:string ;
+    ns1:station_name "Dol-de-Bretagne"^^xsd:string .
+
+<http://example.org/stations/Dole-Ville> ns1:dep_name "Haute-Saï¿½ne"^^xsd:string ;
+    ns1:latitude "47.439"^^xsd:float ;
+    ns1:longitude "5.589"^^xsd:float ;
+    ns1:reg_name "Bourgogne-Franche-Comtï¿½"^^xsd:string ;
+    ns1:station_name "Dole-Ville"^^xsd:string .
+
+<http://example.org/stations/Douai> ns1:dep_name "Nord"^^xsd:string ;
+    ns1:latitude "50.39"^^xsd:float ;
+    ns1:longitude "3.09"^^xsd:float ;
+    ns1:reg_name "Hauts-de-France"^^xsd:string ;
+    ns1:station_name "Douai"^^xsd:string .
+
+<http://example.org/stations/Dunkerque> ns1:dep_name "Nord"^^xsd:string ;
+    ns1:latitude "51.046"^^xsd:float ;
+    ns1:longitude "2.389"^^xsd:float ;
+    ns1:reg_name "Hauts-de-France"^^xsd:string ;
+    ns1:station_name "Dunkerque"^^xsd:string .
+
+<http://example.org/stations/Facture-Biganos> ns1:dep_name "Gironde"^^xsd:string ;
+    ns1:latitude "44.65"^^xsd:float ;
+    ns1:longitude "-0.956"^^xsd:float ;
+    ns1:reg_name "Nouvelle-Aquitaine"^^xsd:string ;
+    ns1:station_name "Facture-Biganos"^^xsd:string .
+
+<http://example.org/stations/Forbach> ns1:dep_name "Moselle"^^xsd:string ;
+    ns1:latitude "49.18"^^xsd:float ;
+    ns1:longitude "6.895"^^xsd:float ;
+    ns1:reg_name "Grand-Est"^^xsd:string ;
+    ns1:station_name "Forbach"^^xsd:string .
+
+<http://example.org/stations/Frasne> ns1:dep_name "Doubs"^^xsd:string ;
+    ns1:latitude "46.856"^^xsd:float ;
+    ns1:longitude "6.149"^^xsd:float ;
+    ns1:reg_name "Bourgogne-Franche-Comtï¿½"^^xsd:string ;
+    ns1:station_name "Frasne"^^xsd:string .
+
+<http://example.org/stations/Futuroscope> ns1:dep_name "Vienne"^^xsd:string ;
+    ns1:latitude "46.659"^^xsd:float ;
+    ns1:longitude "0.362"^^xsd:float ;
+    ns1:reg_name "Nouvelle-Aquitaine"^^xsd:string ;
+    ns1:station_name "Futuroscope"^^xsd:string .
+
+<http://example.org/stations/Grenoble> ns1:dep_name "Isï¿½re"^^xsd:string ;
+    ns1:latitude "45.177"^^xsd:float ;
+    ns1:longitude "5.741"^^xsd:float ;
+    ns1:reg_name "Auvergne-Rhï¿½ne-Alpes"^^xsd:string ;
+    ns1:station_name "Grenoble"^^xsd:string .
+
+<http://example.org/stations/Guingamp> ns1:dep_name "Cï¿½tes-d'Armor"^^xsd:string ;
+    ns1:latitude "48.563"^^xsd:float ;
+    ns1:longitude "-3.155"^^xsd:float ;
+    ns1:reg_name "Bretagne"^^xsd:string ;
+    ns1:station_name "Guingamp"^^xsd:string .
+
+<http://example.org/stations/Hazebrouck> ns1:dep_name "Nord"^^xsd:string ;
+    ns1:latitude "50.738"^^xsd:float ;
+    ns1:longitude "2.726"^^xsd:float ;
+    ns1:reg_name "Hauts-de-France"^^xsd:string ;
+    ns1:station_name "Hazebrouck"^^xsd:string .
+
+<http://example.org/stations/Hendaye> ns1:dep_name "Pyrï¿½nï¿½es-Atlantiques"^^xsd:string ;
+    ns1:latitude "43.355"^^xsd:float ;
+    ns1:longitude "-1.774"^^xsd:float ;
+    ns1:reg_name "Nouvelle-Aquitaine"^^xsd:string ;
+    ns1:station_name "Hendaye"^^xsd:string .
+
+<http://example.org/stations/Hyï¿½res> ns1:dep_name "Var"^^xsd:string ;
+    ns1:latitude "43.09"^^xsd:float ;
+    ns1:longitude "6.123"^^xsd:float ;
+    ns1:reg_name "Provence-Alpes-Cï¿½te-d'Azur"^^xsd:string ;
+    ns1:station_name "Hyï¿½res"^^xsd:string .
+
+<http://example.org/stations/La-Baule-Escoublac> ns1:dep_name "Loire-Atlantique"^^xsd:string ;
+    ns1:latitude "47.285"^^xsd:float ;
+    ns1:longitude "-2.371"^^xsd:float ;
+    ns1:reg_name "Pays-de-la-Loire"^^xsd:string ;
+    ns1:station_name "La-Baule-Escoublac"^^xsd:string .
+
+<http://example.org/stations/La-Roche-sur-Yon> ns1:dep_name "Vendï¿½e"^^xsd:string ;
+    ns1:latitude "46.67"^^xsd:float ;
+    ns1:longitude "-1.432"^^xsd:float ;
+    ns1:reg_name "Pays-de-la-Loire"^^xsd:string ;
+    ns1:station_name "La-Roche-sur-Yon"^^xsd:string .
+
+<http://example.org/stations/La-Rochelle-Ville> ns1:dep_name "Charente-Maritime"^^xsd:string ;
+    ns1:latitude "46.158"^^xsd:float ;
+    ns1:longitude "-1.154"^^xsd:float ;
+    ns1:reg_name "Nouvelle-Aquitaine"^^xsd:string ;
+    ns1:station_name "La-Rochelle-Ville"^^xsd:string .
+
+<http://example.org/stations/La-Teste> ns1:dep_name "Gironde"^^xsd:string ;
+    ns1:latitude "44.633"^^xsd:float ;
+    ns1:longitude "-1.133"^^xsd:float ;
+    ns1:reg_name "Nouvelle-Aquitaine"^^xsd:string ;
+    ns1:station_name "La-Teste"^^xsd:string .
+
+<http://example.org/stations/Lamballe> ns1:dep_name "Cï¿½tes-d'Armor"^^xsd:string ;
+    ns1:latitude "48.439"^^xsd:float ;
+    ns1:longitude "-2.538"^^xsd:float ;
+    ns1:reg_name "Bretagne"^^xsd:string ;
+    ns1:station_name "Lamballe"^^xsd:string .
+
+<http://example.org/stations/Landerneau> ns1:dep_name "Finistï¿½re"^^xsd:string ;
+    ns1:latitude "48.45"^^xsd:float ;
+    ns1:longitude "-4.253"^^xsd:float ;
+    ns1:reg_name "Bretagne"^^xsd:string ;
+    ns1:station_name "Landerneau"^^xsd:string .
+
+<http://example.org/stations/Landry> ns1:dep_name "Savoie"^^xsd:string ;
+    ns1:latitude "45.576"^^xsd:float ;
+    ns1:longitude "6.736"^^xsd:float ;
+    ns1:reg_name "Auvergne-Rhï¿½ne-Alpes"^^xsd:string ;
+    ns1:station_name "Landry"^^xsd:string .
+
+<http://example.org/stations/Lannion> ns1:dep_name "Cï¿½tes-d'Armor"^^xsd:string ;
+    ns1:latitude "48.744"^^xsd:float ;
+    ns1:longitude "-3.472"^^xsd:float ;
+    ns1:reg_name "Bretagne"^^xsd:string ;
+    ns1:station_name "Lannion"^^xsd:string .
+
+<http://example.org/stations/Laval> ns1:dep_name "Mayenne"^^xsd:string ;
+    ns1:latitude "48.077"^^xsd:float ;
+    ns1:longitude "-0.76"^^xsd:float ;
+    ns1:reg_name "Pays-de-la-Loire"^^xsd:string ;
+    ns1:station_name "Laval"^^xsd:string .
+
+<http://example.org/stations/Le-Creusot---Montceau---Montchanin> ns1:dep_name "Saï¿½ne-et-Loire"^^xsd:string ;
+    ns1:latitude "46.669"^^xsd:float ;
+    ns1:longitude "4.377"^^xsd:float ;
+    ns1:reg_name "Bourgogne-Franche-Comtï¿½"^^xsd:string ;
+    ns1:station_name "Le-Creusot---Montceau---Montchanin"^^xsd:string .
+
+<http://example.org/stations/Le-Croisic> ns1:dep_name "Loire-Atlantique"^^xsd:string ;
+    ns1:latitude "47.287"^^xsd:float ;
+    ns1:longitude "-2.51"^^xsd:float ;
+    ns1:reg_name "Pays-de-la-Loire"^^xsd:string ;
+    ns1:station_name "Le-Croisic"^^xsd:string .
+
+<http://example.org/stations/Le-Havre> ns1:dep_name "Seine-Maritime"^^xsd:string ;
+    ns1:latitude "49.505"^^xsd:float ;
+    ns1:longitude "0.174"^^xsd:float ;
+    ns1:reg_name "Normandie"^^xsd:string ;
+    ns1:station_name "Le-Havre"^^xsd:string .
+
+<http://example.org/stations/Le-Mans> ns1:dep_name "Sarthe"^^xsd:string ;
+    ns1:latitude "47.999"^^xsd:float ;
+    ns1:longitude "0.192"^^xsd:float ;
+    ns1:reg_name "Pays-de-la-Loire"^^xsd:string ;
+    ns1:station_name "Le-Mans"^^xsd:string .
+
+<http://example.org/stations/Le-Pouliguen> ns1:dep_name "Loire-Atlantique"^^xsd:string ;
+    ns1:latitude "47.277"^^xsd:float ;
+    ns1:longitude "-2.439"^^xsd:float ;
+    ns1:reg_name "Pays-de-la-Loire"^^xsd:string ;
+    ns1:station_name "Le-Pouliguen"^^xsd:string .
+
+<http://example.org/stations/Lens> ns1:dep_name "Pas-de-Calais"^^xsd:string ;
+    ns1:latitude "50.419"^^xsd:float ;
+    ns1:longitude "3.027"^^xsd:float ;
+    ns1:reg_name "Hauts-de-France"^^xsd:string ;
+    ns1:station_name "Lens"^^xsd:string .
+
+<http://example.org/stations/Les-Arcs---Draguignan> ns1:dep_name "Var"^^xsd:string ;
+    ns1:latitude "43.504"^^xsd:float ;
+    ns1:longitude "6.483"^^xsd:float ;
+    ns1:reg_name "Provence-Alpes-Cï¿½te-d'Azur"^^xsd:string ;
+    ns1:station_name "Les-Arcs---Draguignan"^^xsd:string .
+
+<http://example.org/stations/Les-Sables-d'Olonne> ns1:dep_name "Vendï¿½e"^^xsd:string ;
+    ns1:latitude "46.479"^^xsd:float ;
+    ns1:longitude "-1.758"^^xsd:float ;
+    ns1:reg_name "Pays-de-la-Loire"^^xsd:string ;
+    ns1:station_name "Les-Sables-d'Olonne"^^xsd:string .
+
+<http://example.org/stations/Libourne> ns1:dep_name "Gironde"^^xsd:string ;
+    ns1:latitude "44.896"^^xsd:float ;
+    ns1:longitude "-0.24"^^xsd:float ;
+    ns1:reg_name "Nouvelle-Aquitaine"^^xsd:string ;
+    ns1:station_name "Libourne"^^xsd:string .
+
+<http://example.org/stations/Lille-Europe> ns1:dep_name "Nord"^^xsd:string ;
+    ns1:latitude "50.641"^^xsd:float ;
+    ns1:longitude "3.074"^^xsd:float ;
+    ns1:reg_name "Hauts-de-France"^^xsd:string ;
+    ns1:station_name "Lille-Europe"^^xsd:string .
+
+<http://example.org/stations/Lille-Flandres> ns1:dep_name "Nord"^^xsd:string ;
+    ns1:latitude "50.628"^^xsd:float ;
+    ns1:longitude "3.056"^^xsd:float ;
+    ns1:reg_name "Hauts-de-France"^^xsd:string ;
+    ns1:station_name "Lille-Flandres"^^xsd:string .
+
+<http://example.org/stations/Lorient> ns1:dep_name "Morbihan"^^xsd:string ;
+    ns1:latitude "47.759"^^xsd:float ;
+    ns1:longitude "-3.384"^^xsd:float ;
+    ns1:reg_name "Bretagne"^^xsd:string ;
+    ns1:station_name "Lorient"^^xsd:string .
+
+<http://example.org/stations/Lorraine-TGV> ns1:dep_name "Indre-et-Loire"^^xsd:string ;
+    ns1:latitude "47.381"^^xsd:float ;
+    ns1:longitude "0.71"^^xsd:float ;
+    ns1:reg_name "Centre-Val-de-Loire"^^xsd:string ;
+    ns1:station_name "Lorraine-TGV"^^xsd:string .
+
+<http://example.org/stations/Lourdes> ns1:dep_name "Hautes-Pyrï¿½nï¿½es"^^xsd:string ;
+    ns1:latitude "43.095"^^xsd:float ;
+    ns1:longitude "-0.049"^^xsd:float ;
+    ns1:reg_name "Occitanie"^^xsd:string ;
+    ns1:station_name "Lourdes"^^xsd:string .
+
+<http://example.org/stations/Lunï¿½ville> ns1:dep_name "Meurthe-et-Moselle"^^xsd:string ;
+    ns1:latitude "48.585"^^xsd:float ;
+    ns1:longitude "6.483"^^xsd:float ;
+    ns1:reg_name "Grand-Est"^^xsd:string ;
+    ns1:station_name "Lunï¿½ville"^^xsd:string .
+
+<http://example.org/stations/Lyon-Part-Dieu> ns1:dep_name "Rhï¿½ne"^^xsd:string ;
+    ns1:latitude "45.759"^^xsd:float ;
+    ns1:longitude "4.841"^^xsd:float ;
+    ns1:reg_name "Auvergne-Rhï¿½ne-Alpes"^^xsd:string ;
+    ns1:station_name "Lyon-Part-Dieu"^^xsd:string .
+
+<http://example.org/stations/Lyon-Perrache> ns1:dep_name "Rhï¿½ne"^^xsd:string ;
+    ns1:latitude "45.749"^^xsd:float ;
+    ns1:longitude "4.828"^^xsd:float ;
+    ns1:reg_name "Auvergne-Rhï¿½ne-Alpes"^^xsd:string ;
+    ns1:station_name "Lyon-Perrache"^^xsd:string .
+
+<http://example.org/stations/Lyon-Saint-Exupï¿½ry-TGV> ns1:dep_name "Rhï¿½ne"^^xsd:string ;
+    ns1:latitude "45.758"^^xsd:float ;
+    ns1:longitude "4.828"^^xsd:float ;
+    ns1:reg_name "Auvergne-Rhï¿½ne-Alpes"^^xsd:string ;
+    ns1:station_name "Lyon-Saint-Exupï¿½ry-TGV"^^xsd:string .
+
+<http://example.org/stations/Mantes-la-Jolie> ns1:dep_name "Yvelines"^^xsd:string ;
+    ns1:latitude "48.994"^^xsd:float ;
+    ns1:longitude "1.721"^^xsd:float ;
+    ns1:reg_name "ï¿½le-de-France"^^xsd:string ;
+    ns1:station_name "Mantes-la-Jolie"^^xsd:string .
+
+<http://example.org/stations/Marne-la-Vallï¿½e---Chessy> ns1:dep_name "Rhï¿½ne"^^xsd:string ;
+    ns1:latitude "45.888"^^xsd:float ;
+    ns1:longitude "4.621"^^xsd:float ;
+    ns1:reg_name "Auvergne-Rhï¿½ne-Alpes"^^xsd:string ;
+    ns1:station_name "Marne-la-Vallï¿½e---Chessy"^^xsd:string .
+
+<http://example.org/stations/Marseille-Saint-Charles> ns1:dep_name "Bouches-du-Rhï¿½ne"^^xsd:string ;
+    ns1:latitude "43.255"^^xsd:float ;
+    ns1:longitude "5.432"^^xsd:float ;
+    ns1:reg_name "Provence-Alpes-Cï¿½te-d'Azur"^^xsd:string ;
+    ns1:station_name "Marseille-Saint-Charles"^^xsd:string .
+
+<http://example.org/stations/Massy---Palaiseau> ns1:dep_name "Essonne"^^xsd:string ;
+    ns1:latitude "48.731"^^xsd:float ;
+    ns1:longitude "2.243"^^xsd:float ;
+    ns1:reg_name "ï¿½le-de-France"^^xsd:string ;
+    ns1:station_name "Massy---Palaiseau"^^xsd:string .
+
+<http://example.org/stations/Massy-TGV> ns1:dep_name "Essonne"^^xsd:string ;
+    ns1:latitude "48.736"^^xsd:float ;
+    ns1:longitude "2.291"^^xsd:float ;
+    ns1:reg_name "ï¿½le-de-France"^^xsd:string ;
+    ns1:station_name "Massy-TGV"^^xsd:string .
+
+<http://example.org/stations/Menton> ns1:dep_name "Alpes-Maritimes"^^xsd:string ;
+    ns1:latitude "43.774"^^xsd:float ;
+    ns1:longitude "7.489"^^xsd:float ;
+    ns1:reg_name "Provence-Alpes-Cï¿½te-d'Azur"^^xsd:string ;
+    ns1:station_name "Menton"^^xsd:string .
+
+<http://example.org/stations/Metz-Ville> ns1:dep_name "Moselle"^^xsd:string ;
+    ns1:latitude "49.101"^^xsd:float ;
+    ns1:longitude "6.155"^^xsd:float ;
+    ns1:reg_name "Grand-Est"^^xsd:string ;
+    ns1:station_name "Metz-Ville"^^xsd:string .
+
+<http://example.org/stations/Meuse-TGV> ns1:dep_name "Haute-Garonne"^^xsd:string ;
+    ns1:latitude "43.583"^^xsd:float ;
+    ns1:longitude "1.484"^^xsd:float ;
+    ns1:reg_name "Occitanie"^^xsd:string ;
+    ns1:station_name "Meuse-TGV"^^xsd:string .
+
+<http://example.org/stations/Miramas> ns1:dep_name "Bouches-du-Rhï¿½ne"^^xsd:string ;
+    ns1:latitude "43.643"^^xsd:float ;
+    ns1:longitude "5.021"^^xsd:float ;
+    ns1:reg_name "Provence-Alpes-Cï¿½te-d'Azur"^^xsd:string ;
+    ns1:station_name "Miramas"^^xsd:string .
+
+<http://example.org/stations/Modane> ns1:dep_name "Savoie"^^xsd:string ;
+    ns1:latitude "45.201"^^xsd:float ;
+    ns1:longitude "6.671"^^xsd:float ;
+    ns1:reg_name "Auvergne-Rhï¿½ne-Alpes"^^xsd:string ;
+    ns1:station_name "Modane"^^xsd:string .
+
+<http://example.org/stations/Montauban-Ville-Bourbon> ns1:dep_name "Loire"^^xsd:string ;
+    ns1:latitude "45.429"^^xsd:float ;
+    ns1:longitude "4.36"^^xsd:float ;
+    ns1:reg_name "Auvergne-Rhï¿½ne-Alpes"^^xsd:string ;
+    ns1:station_name "Montauban-Ville-Bourbon"^^xsd:string .
+
+<http://example.org/stations/Montbard> ns1:dep_name "Cï¿½te-d'Or"^^xsd:string ;
+    ns1:latitude "47.837"^^xsd:float ;
+    ns1:longitude "4.364"^^xsd:float ;
+    ns1:reg_name "Bourgogne-Franche-Comtï¿½"^^xsd:string ;
+    ns1:station_name "Montbard"^^xsd:string .
+
+<http://example.org/stations/Montpellier-Saint-Roch> ns1:dep_name "Hï¿½rault"^^xsd:string ;
+    ns1:latitude "43.603"^^xsd:float ;
+    ns1:longitude "3.89"^^xsd:float ;
+    ns1:reg_name "Occitanie"^^xsd:string ;
+    ns1:station_name "Montpellier-Saint-Roch"^^xsd:string .
+
+<http://example.org/stations/Montpellier-Sud-de-France> ns1:dep_name "Hï¿½rault"^^xsd:string ;
+    ns1:latitude "43.595"^^xsd:float ;
+    ns1:longitude "3.924"^^xsd:float ;
+    ns1:reg_name "Occitanie"^^xsd:string ;
+    ns1:station_name "Montpellier-Sud-de-France"^^xsd:string .
+
+<http://example.org/stations/Montï¿½limar> ns1:dep_name "Drï¿½me"^^xsd:string ;
+    ns1:latitude "44.546"^^xsd:float ;
+    ns1:longitude "4.744"^^xsd:float ;
+    ns1:reg_name "Auvergne-Rhï¿½ne-Alpes"^^xsd:string ;
+    ns1:station_name "Montï¿½limar"^^xsd:string .
+
+<http://example.org/stations/Morlaix> ns1:dep_name "Finistï¿½re"^^xsd:string ;
+    ns1:latitude "48.579"^^xsd:float ;
+    ns1:longitude "-3.833"^^xsd:float ;
+    ns1:reg_name "Bretagne"^^xsd:string ;
+    ns1:station_name "Morlaix"^^xsd:string .
+
+<http://example.org/stations/Mouchard> ns1:dep_name "Jura"^^xsd:string ;
+    ns1:latitude "46.978"^^xsd:float ;
+    ns1:longitude "5.792"^^xsd:float ;
+    ns1:reg_name "Bourgogne-Franche-Comtï¿½"^^xsd:string ;
+    ns1:station_name "Mouchard"^^xsd:string .
+
+<http://example.org/stations/Moï¿½tiers---Salins---Brides-les-Bains> ns1:dep_name "Savoie"^^xsd:string ;
+    ns1:latitude "45.452"^^xsd:float ;
+    ns1:longitude "6.567"^^xsd:float ;
+    ns1:reg_name "Auvergne-Rhï¿½ne-Alpes"^^xsd:string ;
+    ns1:station_name "Moï¿½tiers---Salins---Brides-les-Bains"^^xsd:string .
+
+<http://example.org/stations/Mulhouse-Ville> ns1:dep_name "Haut-Rhin"^^xsd:string ;
+    ns1:latitude "47.746"^^xsd:float ;
+    ns1:longitude "7.34"^^xsd:float ;
+    ns1:reg_name "Grand-Est"^^xsd:string ;
+    ns1:station_name "Mulhouse-Ville"^^xsd:string .
+
+<http://example.org/stations/Mï¿½con-Lochï¿½-TGV> ns1:dep_name "Saï¿½ne-et-Loire"^^xsd:string ;
+    ns1:latitude "46.277"^^xsd:float ;
+    ns1:longitude "4.784"^^xsd:float ;
+    ns1:reg_name "Bourgogne-Franche-Comtï¿½"^^xsd:string ;
+    ns1:station_name "Mï¿½con-Lochï¿½-TGV"^^xsd:string .
+
+<http://example.org/stations/Mï¿½con-Ville> ns1:dep_name "Cï¿½tes-d'Armor"^^xsd:string ;
+    ns1:latitude "48.581"^^xsd:float ;
+    ns1:longitude "-2.197"^^xsd:float ;
+    ns1:reg_name "Bretagne"^^xsd:string ;
+    ns1:station_name "Mï¿½con-Ville"^^xsd:string .
+
+<http://example.org/stations/Nancy-Ville> ns1:dep_name "Meurthe-et-Moselle"^^xsd:string ;
+    ns1:latitude "48.703"^^xsd:float ;
+    ns1:longitude "6.224"^^xsd:float ;
+    ns1:reg_name "Grand-Est"^^xsd:string ;
+    ns1:station_name "Nancy-Ville"^^xsd:string .
+
+<http://example.org/stations/Nantes> ns1:dep_name "Loire-Atlantique"^^xsd:string ;
+    ns1:latitude "47.259"^^xsd:float ;
+    ns1:longitude "-1.529"^^xsd:float ;
+    ns1:reg_name "Pays-de-la-Loire"^^xsd:string ;
+    ns1:station_name "Nantes"^^xsd:string .
+
+<http://example.org/stations/Narbonne> ns1:dep_name "Aude"^^xsd:string ;
+    ns1:latitude "43.182"^^xsd:float ;
+    ns1:longitude "3.026"^^xsd:float ;
+    ns1:reg_name "Occitanie"^^xsd:string ;
+    ns1:station_name "Narbonne"^^xsd:string .
+
+<http://example.org/stations/Nice-Ville> ns1:dep_name "Alpes-Maritimes"^^xsd:string ;
+    ns1:latitude "43.697"^^xsd:float ;
+    ns1:longitude "7.272"^^xsd:float ;
+    ns1:reg_name "Provence-Alpes-Cï¿½te-d'Azur"^^xsd:string ;
+    ns1:station_name "Nice-Ville"^^xsd:string .
+
+<http://example.org/stations/Niort> ns1:dep_name "Deux-Sï¿½vres"^^xsd:string ;
+    ns1:latitude "46.319"^^xsd:float ;
+    ns1:longitude "-0.458"^^xsd:float ;
+    ns1:reg_name "Nouvelle-Aquitaine"^^xsd:string ;
+    ns1:station_name "Niort"^^xsd:string .
+
+<http://example.org/stations/Nurieux> ns1:dep_name "Ain"^^xsd:string ;
+    ns1:latitude "46.181"^^xsd:float ;
+    ns1:longitude "5.521"^^xsd:float ;
+    ns1:reg_name "Auvergne-Rhï¿½ne-Alpes"^^xsd:string ;
+    ns1:station_name "Nurieux"^^xsd:string .
+
+<http://example.org/stations/Nï¿½mes> ns1:dep_name "Gard"^^xsd:string ;
+    ns1:latitude "43.832"^^xsd:float ;
+    ns1:longitude "4.386"^^xsd:float ;
+    ns1:reg_name "Occitanie"^^xsd:string ;
+    ns1:station_name "Nï¿½mes"^^xsd:string .
+
+<http://example.org/stations/Nï¿½mes-Pont-du-Gard> ns1:dep_name "Gard"^^xsd:string ;
+    ns1:latitude "43.851"^^xsd:float ;
+    ns1:longitude "4.37"^^xsd:float ;
+    ns1:reg_name "Occitanie"^^xsd:string ;
+    ns1:station_name "Nï¿½mes-Pont-du-Gard"^^xsd:string .
+
+<http://example.org/stations/Orange> ns1:dep_name "Vaucluse"^^xsd:string ;
+    ns1:latitude "44.14"^^xsd:float ;
+    ns1:longitude "4.812"^^xsd:float ;
+    ns1:reg_name "Provence-Alpes-Cï¿½te-d'Azur"^^xsd:string ;
+    ns1:station_name "Orange"^^xsd:string .
+
+<http://example.org/stations/Orthez> ns1:dep_name "Pyrï¿½nï¿½es-Atlantiques"^^xsd:string ;
+    ns1:latitude "43.491"^^xsd:float ;
+    ns1:longitude "-0.768"^^xsd:float ;
+    ns1:reg_name "Nouvelle-Aquitaine"^^xsd:string ;
+    ns1:station_name "Orthez"^^xsd:string .
+
+<http://example.org/stations/Paris-Est> ns1:dep_name "Paris"^^xsd:string ;
+    ns1:latitude "48.871"^^xsd:float ;
+    ns1:longitude "2.395"^^xsd:float ;
+    ns1:reg_name "ï¿½le-de-France"^^xsd:string ;
+    ns1:station_name "Paris-Est"^^xsd:string .
+
+<http://example.org/stations/Paris-Gare-de-Lyon> ns1:dep_name "Rhï¿½ne"^^xsd:string ;
+    ns1:latitude "45.78"^^xsd:float ;
+    ns1:longitude "4.804"^^xsd:float ;
+    ns1:reg_name "Auvergne-Rhï¿½ne-Alpes"^^xsd:string ;
+    ns1:station_name "Paris-Gare-de-Lyon"^^xsd:string .
+
+<http://example.org/stations/Paris-Montparnasse> ns1:dep_name "Paris"^^xsd:string ;
+    ns1:latitude "48.838"^^xsd:float ;
+    ns1:longitude "2.317"^^xsd:float ;
+    ns1:reg_name "ï¿½le-de-France"^^xsd:string ;
+    ns1:station_name "Paris-Montparnasse"^^xsd:string .
+
+<http://example.org/stations/Paris-Nord> ns1:dep_name "Paris"^^xsd:string ;
+    ns1:latitude "48.881"^^xsd:float ;
+    ns1:longitude "2.356"^^xsd:float ;
+    ns1:reg_name "ï¿½le-de-France"^^xsd:string ;
+    ns1:station_name "Paris-Nord"^^xsd:string .
+
+<http://example.org/stations/Pau> ns1:dep_name "Pyrï¿½nï¿½es-Atlantiques"^^xsd:string ;
+    ns1:latitude "43.295"^^xsd:float ;
+    ns1:longitude "-0.35"^^xsd:float ;
+    ns1:reg_name "Nouvelle-Aquitaine"^^xsd:string ;
+    ns1:station_name "Pau"^^xsd:string .
+
+<http://example.org/stations/Perpignan> ns1:dep_name "Pyrï¿½nï¿½es-Orientales"^^xsd:string ;
+    ns1:latitude "42.697"^^xsd:float ;
+    ns1:longitude "2.888"^^xsd:float ;
+    ns1:reg_name "Occitanie"^^xsd:string ;
+    ns1:station_name "Perpignan"^^xsd:string .
+
+<http://example.org/stations/Plouaret-Trï¿½gor> ns1:dep_name "Ille-et-Vilaine"^^xsd:string ;
+    ns1:latitude "48.035"^^xsd:float ;
+    ns1:longitude "-1.704"^^xsd:float ;
+    ns1:reg_name "Bretagne"^^xsd:string ;
+    ns1:station_name "Plouaret-Trï¿½gor"^^xsd:string .
+
+<http://example.org/stations/Poitiers> ns1:dep_name "Vienne"^^xsd:string ;
+    ns1:latitude "46.579"^^xsd:float ;
+    ns1:longitude "0.335"^^xsd:float ;
+    ns1:reg_name "Nouvelle-Aquitaine"^^xsd:string ;
+    ns1:station_name "Poitiers"^^xsd:string .
+
+<http://example.org/stations/Pornichet> ns1:dep_name "Loire-Atlantique"^^xsd:string ;
+    ns1:latitude "47.252"^^xsd:float ;
+    ns1:longitude "-2.314"^^xsd:float ;
+    ns1:reg_name "Pays-de-la-Loire"^^xsd:string ;
+    ns1:station_name "Pornichet"^^xsd:string .
+
+<http://example.org/stations/Quimper> ns1:dep_name "Finistï¿½re"^^xsd:string ;
+    ns1:latitude "48.014"^^xsd:float ;
+    ns1:longitude "-4.094"^^xsd:float ;
+    ns1:reg_name "Bretagne"^^xsd:string ;
+    ns1:station_name "Quimper"^^xsd:string .
+
+<http://example.org/stations/Quimperlï¿½> ns1:dep_name "Finistï¿½re"^^xsd:string ;
+    ns1:latitude "47.884"^^xsd:float ;
+    ns1:longitude "-3.548"^^xsd:float ;
+    ns1:reg_name "Bretagne"^^xsd:string ;
+    ns1:station_name "Quimperlï¿½"^^xsd:string .
+
+<http://example.org/stations/Rang-du-Fliers---Verton> ns1:dep_name "Pas-de-Calais"^^xsd:string ;
+    ns1:latitude "50.414"^^xsd:float ;
+    ns1:longitude "1.619"^^xsd:float ;
+    ns1:reg_name "Hauts-de-France"^^xsd:string ;
+    ns1:station_name "Rang-du-Fliers---Verton"^^xsd:string .
+
+<http://example.org/stations/Redon> ns1:dep_name "Ille-et-Vilaine"^^xsd:string ;
+    ns1:latitude "47.652"^^xsd:float ;
+    ns1:longitude "-2.083"^^xsd:float ;
+    ns1:reg_name "Bretagne"^^xsd:string ;
+    ns1:station_name "Redon"^^xsd:string .
+
+<http://example.org/stations/Reims> ns1:dep_name "Marne"^^xsd:string ;
+    ns1:latitude "49.245"^^xsd:float ;
+    ns1:longitude "4.041"^^xsd:float ;
+    ns1:reg_name "Grand-Est"^^xsd:string ;
+    ns1:station_name "Reims"^^xsd:string .
+
+<http://example.org/stations/Remiremont> ns1:dep_name "Vosges"^^xsd:string ;
+    ns1:latitude "48.006"^^xsd:float ;
+    ns1:longitude "6.604"^^xsd:float ;
+    ns1:reg_name "Grand-Est"^^xsd:string ;
+    ns1:station_name "Remiremont"^^xsd:string .
+
+<http://example.org/stations/Rennes> ns1:dep_name "Ille-et-Vilaine"^^xsd:string ;
+    ns1:latitude "48.11"^^xsd:float ;
+    ns1:longitude "-1.684"^^xsd:float ;
+    ns1:reg_name "Bretagne"^^xsd:string ;
+    ns1:station_name "Rennes"^^xsd:string .
+
+<http://example.org/stations/Rethel> ns1:dep_name "Ardennes"^^xsd:string ;
+    ns1:latitude "49.5"^^xsd:float ;
+    ns1:longitude "4.402"^^xsd:float ;
+    ns1:reg_name "Grand-Est"^^xsd:string ;
+    ns1:station_name "Rethel"^^xsd:string .
+
+<http://example.org/stations/Rosporden> ns1:dep_name "Finistï¿½re"^^xsd:string ;
+    ns1:latitude "47.989"^^xsd:float ;
+    ns1:longitude "-3.791"^^xsd:float ;
+    ns1:reg_name "Bretagne"^^xsd:string ;
+    ns1:station_name "Rosporden"^^xsd:string .
+
+<http://example.org/stations/Roubaix> ns1:dep_name "Nord"^^xsd:string ;
+    ns1:latitude "50.701"^^xsd:float ;
+    ns1:longitude "3.17"^^xsd:float ;
+    ns1:reg_name "Hauts-de-France"^^xsd:string ;
+    ns1:station_name "Roubaix"^^xsd:string .
+
+<http://example.org/stations/Rouen-Rive-Droite> ns1:dep_name "Charente-Maritime"^^xsd:string ;
+    ns1:latitude "46.318"^^xsd:float ;
+    ns1:longitude "-0.973"^^xsd:float ;
+    ns1:reg_name "Nouvelle-Aquitaine"^^xsd:string ;
+    ns1:station_name "Rouen-Rive-Droite"^^xsd:string .
+
+<http://example.org/stations/Sablï¿½-sur-Sarthe> ns1:dep_name "Sarthe"^^xsd:string ;
+    ns1:latitude "47.837"^^xsd:float ;
+    ns1:longitude "-0.329"^^xsd:float ;
+    ns1:reg_name "Pays-de-la-Loire"^^xsd:string ;
+    ns1:station_name "Sablï¿½-sur-Sarthe"^^xsd:string .
+
+<http://example.org/stations/Saint-Avre---La-Chambre> ns1:dep_name "Savoie"^^xsd:string ;
+    ns1:latitude "45.356"^^xsd:float ;
+    ns1:longitude "6.304"^^xsd:float ;
+    ns1:reg_name "Auvergne-Rhï¿½ne-Alpes"^^xsd:string ;
+    ns1:station_name "Saint-Avre---La-Chambre"^^xsd:string .
+
+<http://example.org/stations/Saint-Brieuc> ns1:dep_name "Cï¿½tes-d'Armor"^^xsd:string ;
+    ns1:latitude "48.503"^^xsd:float ;
+    ns1:longitude "-2.763"^^xsd:float ;
+    ns1:reg_name "Bretagne"^^xsd:string ;
+    ns1:station_name "Saint-Brieuc"^^xsd:string .
+
+<http://example.org/stations/Saint-Diï¿½-des-Vosges> ns1:dep_name "Vosges"^^xsd:string ;
+    ns1:latitude "48.293"^^xsd:float ;
+    ns1:longitude "6.962"^^xsd:float ;
+    ns1:reg_name "Grand-Est"^^xsd:string ;
+    ns1:station_name "Saint-Diï¿½-des-Vosges"^^xsd:string .
+
+<http://example.org/stations/Saint-Gervais-les-Bains-Le-Fayet> ns1:dep_name "Haute-Savoie"^^xsd:string ;
+    ns1:latitude "45.868"^^xsd:float ;
+    ns1:longitude "6.682"^^xsd:float ;
+    ns1:reg_name "Auvergne-Rhï¿½ne-Alpes"^^xsd:string ;
+    ns1:station_name "Saint-Gervais-les-Bains-Le-Fayet"^^xsd:string .
+
+<http://example.org/stations/Saint-Jean-de-Luz---Ciboure> ns1:dep_name "Pyrï¿½nï¿½es-Atlantiques"^^xsd:string ;
+    ns1:latitude "43.381"^^xsd:float ;
+    ns1:longitude "-1.676"^^xsd:float ;
+    ns1:reg_name "Nouvelle-Aquitaine"^^xsd:string ;
+    ns1:station_name "Saint-Jean-de-Luz---Ciboure"^^xsd:string .
+
+<http://example.org/stations/Saint-Jean-de-Maurienne---Vallï¿½e-de-l'Arvan> ns1:dep_name "Savoie"^^xsd:string ;
+    ns1:latitude "45.272"^^xsd:float ;
+    ns1:longitude "6.352"^^xsd:float ;
+    ns1:reg_name "Auvergne-Rhï¿½ne-Alpes"^^xsd:string ;
+    ns1:station_name "Saint-Jean-de-Maurienne---Vallï¿½e-de-l'Arvan"^^xsd:string .
+
+<http://example.org/stations/Saint-Maixent-(Deux-Sï¿½vres)> ns1:dep_name "Deux-Sï¿½vres"^^xsd:string ;
+    ns1:latitude "46.409"^^xsd:float ;
+    ns1:longitude "-0.205"^^xsd:float ;
+    ns1:reg_name "Nouvelle-Aquitaine"^^xsd:string ;
+    ns1:station_name "Saint-Maixent-(Deux-Sï¿½vres)"^^xsd:string .
+
+<http://example.org/stations/Saint-Malo> ns1:dep_name "Ille-et-Vilaine"^^xsd:string ;
+    ns1:latitude "48.657"^^xsd:float ;
+    ns1:longitude "-1.974"^^xsd:float ;
+    ns1:reg_name "Bretagne"^^xsd:string ;
+    ns1:station_name "Saint-Malo"^^xsd:string .
+
+<http://example.org/stations/Saint-Michel---Valloire> ns1:dep_name "Vosges"^^xsd:string ;
+    ns1:latitude "48.157"^^xsd:float ;
+    ns1:longitude "6.134"^^xsd:float ;
+    ns1:reg_name "Grand-Est"^^xsd:string ;
+    ns1:station_name "Saint-Michel---Valloire"^^xsd:string .
+
+<http://example.org/stations/Saint-Nazaire> ns1:dep_name "Loire-Atlantique"^^xsd:string ;
+    ns1:latitude "47.299"^^xsd:float ;
+    ns1:longitude "-2.184"^^xsd:float ;
+    ns1:reg_name "Pays-de-la-Loire"^^xsd:string ;
+    ns1:station_name "Saint-Nazaire"^^xsd:string .
+
+<http://example.org/stations/Saint-Pierre-des-Corps> ns1:dep_name "Indre-et-Loire"^^xsd:string ;
+    ns1:latitude "47.386"^^xsd:float ;
+    ns1:longitude "0.761"^^xsd:float ;
+    ns1:reg_name "Centre-Val-de-Loire"^^xsd:string ;
+    ns1:station_name "Saint-Pierre-des-Corps"^^xsd:string .
+
+<http://example.org/stations/Saint-Raphaï¿½l-Valescure> ns1:dep_name "Var"^^xsd:string ;
+    ns1:latitude "43.441"^^xsd:float ;
+    ns1:longitude "6.776"^^xsd:float ;
+    ns1:reg_name "Provence-Alpes-Cï¿½te-d'Azur"^^xsd:string ;
+    ns1:station_name "Saint-Raphaï¿½l-Valescure"^^xsd:string .
+
+<http://example.org/stations/Saint-ï¿½tienne-Chï¿½teaucreux> ns1:dep_name "Loire"^^xsd:string ;
+    ns1:latitude "45.443"^^xsd:float ;
+    ns1:longitude "4.4"^^xsd:float ;
+    ns1:reg_name "Auvergne-Rhï¿½ne-Alpes"^^xsd:string ;
+    ns1:station_name "Saint-ï¿½tienne-Chï¿½teaucreux"^^xsd:string .
+
+<http://example.org/stations/Sallanches---Combloux---Megï¿½ve> ns1:dep_name "Haute-Savoie"^^xsd:string ;
+    ns1:latitude "45.901"^^xsd:float ;
+    ns1:longitude "6.643"^^xsd:float ;
+    ns1:reg_name "Auvergne-Rhï¿½ne-Alpes"^^xsd:string ;
+    ns1:station_name "Sallanches---Combloux---Megï¿½ve"^^xsd:string .
+
+<http://example.org/stations/Sarrebourg> ns1:dep_name "Moselle"^^xsd:string ;
+    ns1:latitude "48.735"^^xsd:float ;
+    ns1:longitude "7.052"^^xsd:float ;
+    ns1:reg_name "Grand-Est"^^xsd:string ;
+    ns1:station_name "Sarrebourg"^^xsd:string .
+
+<http://example.org/stations/Saumur> ns1:dep_name "Maine-et-Loire"^^xsd:string ;
+    ns1:latitude "47.263"^^xsd:float ;
+    ns1:longitude "-0.073"^^xsd:float ;
+    ns1:reg_name "Pays-de-la-Loire"^^xsd:string ;
+    ns1:station_name "Saumur"^^xsd:string .
+
+<http://example.org/stations/Saverne> ns1:dep_name "Bas-Rhin"^^xsd:string ;
+    ns1:latitude "48.744"^^xsd:float ;
+    ns1:longitude "7.359"^^xsd:float ;
+    ns1:reg_name "Grand-Est"^^xsd:string ;
+    ns1:station_name "Saverne"^^xsd:string .
+
+<http://example.org/stations/Sedan> ns1:dep_name "Ardennes"^^xsd:string ;
+    ns1:latitude "49.705"^^xsd:float ;
+    ns1:longitude "4.943"^^xsd:float ;
+    ns1:reg_name "Grand-Est"^^xsd:string ;
+    ns1:station_name "Sedan"^^xsd:string .
+
+<http://example.org/stations/Strasbourg-Ville> ns1:dep_name "Bas-Rhin"^^xsd:string ;
+    ns1:latitude "48.561"^^xsd:float ;
+    ns1:longitude "7.76"^^xsd:float ;
+    ns1:reg_name "Grand-Est"^^xsd:string ;
+    ns1:station_name "Strasbourg-Ville"^^xsd:string .
+
+<http://example.org/stations/Surgï¿½res> ns1:dep_name "Charente-Maritime"^^xsd:string ;
+    ns1:latitude "46.114"^^xsd:float ;
+    ns1:longitude "-0.741"^^xsd:float ;
+    ns1:reg_name "Nouvelle-Aquitaine"^^xsd:string ;
+    ns1:station_name "Surgï¿½res"^^xsd:string .
+
+<http://example.org/stations/Sï¿½lestat> ns1:dep_name "Bas-Rhin"^^xsd:string ;
+    ns1:latitude "48.265"^^xsd:float ;
+    ns1:longitude "7.441"^^xsd:float ;
+    ns1:reg_name "Grand-Est"^^xsd:string ;
+    ns1:station_name "Sï¿½lestat"^^xsd:string .
+
+<http://example.org/stations/Sï¿½te> ns1:dep_name "Hï¿½rault"^^xsd:string ;
+    ns1:latitude "43.409"^^xsd:float ;
+    ns1:longitude "3.698"^^xsd:float ;
+    ns1:reg_name "Occitanie"^^xsd:string ;
+    ns1:station_name "Sï¿½te"^^xsd:string .
+
+<http://example.org/stations/TGV-Haute-Picardie> ns1:dep_name "Hï¿½rault"^^xsd:string ;
+    ns1:latitude "43.394"^^xsd:float ;
+    ns1:longitude "3.68"^^xsd:float ;
+    ns1:reg_name "Occitanie"^^xsd:string ;
+    ns1:station_name "TGV-Haute-Picardie"^^xsd:string .
+
+<http://example.org/stations/Tarbes> ns1:dep_name "Hautes-Pyrï¿½nï¿½es"^^xsd:string ;
+    ns1:latitude "43.232"^^xsd:float ;
+    ns1:longitude "0.071"^^xsd:float ;
+    ns1:reg_name "Occitanie"^^xsd:string ;
+    ns1:station_name "Tarbes"^^xsd:string .
+
+<http://example.org/stations/Thionville> ns1:dep_name "Moselle"^^xsd:string ;
+    ns1:latitude "49.362"^^xsd:float ;
+    ns1:longitude "6.144"^^xsd:float ;
+    ns1:reg_name "Grand-Est"^^xsd:string ;
+    ns1:station_name "Thionville"^^xsd:string .
+
+<http://example.org/stations/Thonon-les-Bains> ns1:dep_name "Haute-Savoie"^^xsd:string ;
+    ns1:latitude "46.374"^^xsd:float ;
+    ns1:longitude "6.485"^^xsd:float ;
+    ns1:reg_name "Auvergne-Rhï¿½ne-Alpes"^^xsd:string ;
+    ns1:station_name "Thonon-les-Bains"^^xsd:string .
+
+<http://example.org/stations/Toulon> ns1:dep_name "Var"^^xsd:string ;
+    ns1:latitude "43.133"^^xsd:float ;
+    ns1:longitude "5.964"^^xsd:float ;
+    ns1:reg_name "Provence-Alpes-Cï¿½te-d'Azur"^^xsd:string ;
+    ns1:station_name "Toulon"^^xsd:string .
+
+<http://example.org/stations/Toulouse-Matabiau> ns1:dep_name "Haute-Garonne"^^xsd:string ;
+    ns1:latitude "43.61"^^xsd:float ;
+    ns1:longitude "1.447"^^xsd:float ;
+    ns1:reg_name "Occitanie"^^xsd:string ;
+    ns1:station_name "Toulouse-Matabiau"^^xsd:string .
+
+<http://example.org/stations/Tourcoing> ns1:dep_name "Nord"^^xsd:string ;
+    ns1:latitude "50.718"^^xsd:float ;
+    ns1:longitude "3.141"^^xsd:float ;
+    ns1:reg_name "Hauts-de-France"^^xsd:string ;
+    ns1:station_name "Tourcoing"^^xsd:string .
+
+<http://example.org/stations/Tours> ns1:dep_name "Indre-et-Loire"^^xsd:string ;
+    ns1:latitude "47.402"^^xsd:float ;
+    ns1:longitude "0.696"^^xsd:float ;
+    ns1:reg_name "Centre-Val-de-Loire"^^xsd:string ;
+    ns1:station_name "Tours"^^xsd:string .
+
+<http://example.org/stations/Valence-TGV> ns1:dep_name "Drï¿½me"^^xsd:string ;
+    ns1:latitude "45.065"^^xsd:float ;
+    ns1:longitude "4.891"^^xsd:float ;
+    ns1:reg_name "Auvergne-Rhï¿½ne-Alpes"^^xsd:string ;
+    ns1:station_name "Valence-TGV"^^xsd:string .
+
+<http://example.org/stations/Valence-Ville> ns1:dep_name "Drï¿½me"^^xsd:string ;
+    ns1:latitude "44.933"^^xsd:float ;
+    ns1:longitude "4.891"^^xsd:float ;
+    ns1:reg_name "Auvergne-Rhï¿½ne-Alpes"^^xsd:string ;
+    ns1:station_name "Valence-Ville"^^xsd:string .
+
+<http://example.org/stations/Valenciennes> ns1:dep_name "Nord"^^xsd:string ;
+    ns1:latitude "50.342"^^xsd:float ;
+    ns1:longitude "3.517"^^xsd:float ;
+    ns1:reg_name "Hauts-de-France"^^xsd:string ;
+    ns1:station_name "Valenciennes"^^xsd:string .
+
+<http://example.org/stations/Vannes> ns1:dep_name "Morbihan"^^xsd:string ;
+    ns1:latitude "47.636"^^xsd:float ;
+    ns1:longitude "-2.773"^^xsd:float ;
+    ns1:reg_name "Bretagne"^^xsd:string ;
+    ns1:station_name "Vannes"^^xsd:string .
+
+<http://example.org/stations/Vendï¿½me---Villiers-sur-Loir> ns1:dep_name "Loir-et-Cher"^^xsd:string ;
+    ns1:latitude "47.799"^^xsd:float ;
+    ns1:longitude "1.036"^^xsd:float ;
+    ns1:reg_name "Centre-Val-de-Loire"^^xsd:string ;
+    ns1:station_name "Vendï¿½me---Villiers-sur-Loir"^^xsd:string .
+
+<http://example.org/stations/Versailles-Chantiers> ns1:dep_name "Yvelines"^^xsd:string ;
+    ns1:latitude "48.797"^^xsd:float ;
+    ns1:longitude "2.136"^^xsd:float ;
+    ns1:reg_name "ï¿½le-de-France"^^xsd:string ;
+    ns1:station_name "Versailles-Chantiers"^^xsd:string .
+
+<http://example.org/stations/Vitry-le-Franï¿½ois> ns1:dep_name "Marne"^^xsd:string ;
+    ns1:latitude "48.73"^^xsd:float ;
+    ns1:longitude "4.597"^^xsd:float ;
+    ns1:reg_name "Grand-Est"^^xsd:string ;
+    ns1:station_name "Vitry-le-Franï¿½ois"^^xsd:string .
+
+<http://example.org/stations/Vitrï¿½> ns1:dep_name "Ille-et-Vilaine"^^xsd:string ;
+    ns1:latitude "48.131"^^xsd:float ;
+    ns1:longitude "-1.218"^^xsd:float ;
+    ns1:reg_name "Bretagne"^^xsd:string ;
+    ns1:station_name "Vitrï¿½"^^xsd:string .
+
+<http://example.org/stations/ï¿½pinal> ns1:dep_name "Vosges"^^xsd:string ;
+    ns1:latitude "48.175"^^xsd:float ;
+    ns1:longitude "6.45"^^xsd:float ;
+    ns1:reg_name "Grand-Est"^^xsd:string ;
+    ns1:station_name "ï¿½pinal"^^xsd:string .
+
+<http://example.org/stations/ï¿½taples---Le-Touquet> ns1:dep_name "Pas-de-Calais"^^xsd:string ;
+    ns1:latitude "50.525"^^xsd:float ;
+    ns1:longitude "1.589"^^xsd:float ;
+    ns1:reg_name "Hauts-de-France"^^xsd:string ;
+    ns1:station_name "ï¿½taples---Le-Touquet"^^xsd:string .
+
+<http://example.org/stations/ï¿½vian-les-Bains> ns1:dep_name "Haute-Savoie"^^xsd:string ;
+    ns1:latitude "46.398"^^xsd:float ;
+    ns1:longitude "6.602"^^xsd:float ;
+    ns1:reg_name "Auvergne-Rhï¿½ne-Alpes"^^xsd:string ;
+    ns1:station_name "ï¿½vian-les-Bains"^^xsd:string .
+

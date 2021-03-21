@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:ns1="http://schema.org/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://region.org/agencies/OCEdefault">
+    <ns1:agency_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OCEdefault</ns1:agency_id>
+    <ns1:agency_url rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://www.sncf.com</ns1:agency_url>
+    <ns1:agency_lang rdf:datatype="http://www.w3.org/2001/XMLSchema#language">fr</ns1:agency_lang>
+    <ns1:agency_name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SNCF</ns1:agency_name>
+    <ns1:agency_timezone rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Europe/Paris</ns1:agency_timezone>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://region.org/agencies/OCESN">
+    <ns1:agency_lang rdf:datatype="http://www.w3.org/2001/XMLSchema#language">fr</ns1:agency_lang>
+    <ns1:agency_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OCESN</ns1:agency_id>
+    <ns1:agency_name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SNCF</ns1:agency_name>
+    <ns1:agency_timezone rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Europe/Paris</ns1:agency_timezone>
+    <ns1:agency_url rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://www.sncf.com</ns1:agency_url>
+  </rdf:Description>
+</rdf:RDF>
